@@ -1,0 +1,40 @@
+{
+ "id": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+ "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+ "gradeName": "Grade 6",
+ "gradeOrdinal": 6,
+ "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+ "academicYearName": "2026-27",
+ "name": "A",
+ "room": "6A",
+ "capacity": 30,
+ "classTeacherId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+ "classTeacherName": "Sunita Verma",
+ "studentCount": 24,
+ "teachingAssignments": [
+  {
+   "id": "01a15f30-0fb8-70b1-9535-80ee768cfacc",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectCode": "ART",
+   "subjectName": "Art & Craft",
+   "staffId": "01a15f30-0f95-73bb-8233-f0da5061dd74",
+   "staffName": "Imran Qureshi"
+  },
+  {
+   "id": "01a15f30-0fb8-70b1-9535-78f81986e7d1",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectCode": "CS",
+   "subjectName": "Computer Science",
+   "staffId": "01a15f30-0f8f-77dd-b4c5-68fdd476b2c6",
+   "staffName": "Vikram Chauhan"
+  },
+  {
+   "id": "01a15f30-0fb8-70b1-9535-67bca3025963",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectCode": "ENG",
+   "subjectName": "English",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "staffName": "Sunita Verma"
+  }
+ ]
+}

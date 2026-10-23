@@ -1,0 +1,36 @@
+{
+ "from": "2026-04-01",
+ "to": "2026-10-21",
+ "currency": "INR",
+ "invoicedMinor": 800299000,
+ "collectedMinor": 668079900,
+ "refundedMinor": 0,
+ "netCollectedMinor": 668079900,
+ "expensesMinor": 29044000,
+ "netPositionMinor": 639035900,
+ "outstandingMinor": 497391100,
+ "overdueMinor": 177319100,
+ "collectionRatePercent": 77.84,
+ "byMonth": [
+  {
+   "month": "2026-06",
+   "collectedMinor": 354606000,
+   "expensesMinor": 1920000
+  },
+  {
+   "month": "2026-07",
+   "collectedMinor": 12336000,
+   "expensesMinor": 6160000
+  },
+  {
+   "month": "2026-08",
+   "collectedMinor": 0,
+   "expensesMinor": 4804000
+  }
+ ],
+ "pending": {
+  "refunds": 1,
+  "concessions": 3,
+  "expenses": 1
+ }
+}

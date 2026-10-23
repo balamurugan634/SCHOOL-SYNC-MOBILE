@@ -1,0 +1,17 @@
+{
+ "id": "01a15f57-0fd7-74a0-aaf1-501c60de3959",
+ "homeworkId": "01a15f57-0438-72bf-9592-0f19bdf00c3e",
+ "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+ "studentName": "Ishaan Bose",
+ "rollNo": 1,
+ "text": "My answer",
+ "attachments": [],
+ "submittedAt": "2026-10-21T16:41:43.639Z",
+ "status": "returned",
+ "isLate": false,
+ "marks": null,
+ "feedback": "Redo question 2",
+ "reviewedBy": "01a15f30-0f7e-744e-a1ba-05cb96d6258c",
+ "reviewedAt": "2026-10-21T16:41:46.428Z",
+ "updatedAt": "2026-10-21T16:41:46.428Z"
+}

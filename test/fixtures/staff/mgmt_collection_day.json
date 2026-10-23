@@ -1,0 +1,46 @@
+{
+ "from": "2026-10-01",
+ "to": "2026-10-21",
+ "currency": "INR",
+ "collectedMinor": 45100100,
+ "refundedMinor": 0,
+ "netMinor": 45100100,
+ "count": 35,
+ "series": [
+  {
+   "period": "2026-10-21",
+   "collectedMinor": 45100100,
+   "refundedMinor": 0,
+   "count": 35
+  }
+ ],
+ "byMethod": [
+  {
+   "method": "upi",
+   "collectedMinor": 18100000,
+   "count": 14
+  },
+  {
+   "method": "cheque",
+   "collectedMinor": 7700000,
+   "count": 6
+  },
+  {
+   "method": "cash",
+   "collectedMinor": 7530100,
+   "count": 6
+  }
+ ],
+ "byCategory": [
+  {
+   "categoryId": "01a15f30-13cf-742c-b7f9-93662574b1cb",
+   "category": "Tuition",
+   "collectedMinor": 41500100
+  },
+  {
+   "categoryId": "01a15f30-13cf-742c-b7f9-95edf96aebd0",
+   "category": "Transport",
+   "collectedMinor": 3600000
+  }
+ ]
+}

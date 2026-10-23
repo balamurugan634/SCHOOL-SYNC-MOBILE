@@ -1,0 +1,61 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-12a3-7085-bc86-f4c6cc3b2bd9",
+   "homeworkId": "01a15f30-1291-7181-89ff-75ba32d7c87e",
+   "studentId": "01a15f30-0fbe-7319-a0fb-a803a8f96a94",
+   "studentName": "Tanvi Sharma",
+   "rollNo": 23,
+   "text": "Finished the worksheet at home.",
+   "attachments": [],
+   "submittedAt": "2026-10-21T14:59:08.432Z",
+   "status": "reviewed",
+   "isLate": true,
+   "marks": 4.5,
+   "feedback": "Fair attempt. Revise the last two questions.",
+   "reviewedBy": "01a15f30-0f91-72c5-94f5-e5cafee3dc81",
+   "reviewedAt": "2026-10-21T15:29:08.432Z",
+   "updatedAt": "2026-10-21T15:29:08.432Z"
+  },
+  {
+   "id": "01a15f30-12a3-7085-bc86-f8b6f0c79494",
+   "homeworkId": "01a15f30-1291-7181-89ff-7f75b2be9734",
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "studentName": "Ishaan Bose",
+   "rollNo": 1,
+   "text": "Finished the worksheet at home.",
+   "attachments": [],
+   "submittedAt": "2026-10-21T02:30:00.000Z",
+   "status": "submitted",
+   "isLate": false,
+   "marks": null,
+   "feedback": null,
+   "reviewedBy": null,
+   "reviewedAt": null,
+   "updatedAt": "2026-10-21T02:30:00.000Z"
+  },
+  {
+   "id": "01a15f30-12be-7705-a11e-c2bea0e7792f",
+   "homeworkId": "01a15f30-1296-73f9-b70d-7bf654e55195",
+   "studentId": "01a15f30-0fbf-7337-9970-23feb695f2b0",
+   "studentName": "Aarav Reddy",
+   "rollNo": 5,
+   "text": "Finished the worksheet at home.",
+   "attachments": [],
+   "submittedAt": "2026-10-20T19:30:00.000Z",
+   "status": "submitted",
+   "isLate": false,
+   "marks": null,
+   "feedback": null,
+   "reviewedBy": null,
+   "reviewedAt": null,
+   "updatedAt": "2026-10-20T19:30:00.000Z"
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 3,
+  "total": 171,
+  "totalPages": 57
+ }
+}

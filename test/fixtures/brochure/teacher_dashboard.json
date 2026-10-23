@@ -1,0 +1,403 @@
+{
+ "date": "2026-10-23",
+ "staff": {
+  "id": "01a16070-71f8-72ea-ba28-a0992e092854",
+  "name": "Sunita Verma",
+  "designation": "English Teacher"
+ },
+ "attendance": {
+  "date": "2026-10-23",
+  "mode": "daily",
+  "isWorkingDay": true,
+  "holiday": null,
+  "role": "teacher",
+  "items": [
+   {
+    "sectionId": "01a16070-722c-76d4-8ac0-d23d0c817b70",
+    "sectionName": "Grade 6-A",
+    "periodId": null,
+    "periodName": null,
+    "subjectName": null,
+    "strength": 24,
+    "marked": true,
+    "sessionStatus": "submitted",
+    "counts": {
+     "present": 21,
+     "absent": 0,
+     "late": 1,
+     "leave": 0,
+     "half_day": 2
+    }
+   }
+  ],
+  "pendingCount": 0,
+  "children": [],
+  "school": null
+ },
+ "timetable": {
+  "date": "2026-10-23",
+  "dayOfWeek": 5,
+  "isWorkingDay": true,
+  "now": "16:13",
+  "studentId": null,
+  "sectionId": null,
+  "sectionName": null,
+  "entries": [
+   {
+    "periodId": "01a16070-7163-72fe-a1b2-1b3a64e52955",
+    "periodName": "Period 2",
+    "ordinal": 2,
+    "startTime": "09:15",
+    "endTime": "10:00",
+    "isBreak": false,
+    "slotId": "01a16070-7490-738d-b402-e1f7f6d84117",
+    "sectionId": "01a16070-7232-7243-b18a-c35f4d46666a",
+    "sectionName": "Grade 8 B",
+    "subjectId": "01a16070-71e1-7210-863f-4ad12950b8bd",
+    "subjectName": "Mathematics",
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "teacherName": "Sunita Verma",
+    "room": "8B",
+    "substituted": false,
+    "substitution": null,
+    "relation": "own",
+    "state": "past"
+   },
+   {
+    "periodId": "01a16070-7163-72fe-a1b2-226a45b32d8c",
+    "periodName": "Period 3",
+    "ordinal": 4,
+    "startTime": "10:15",
+    "endTime": "11:00",
+    "isBreak": false,
+    "slotId": "01a16070-7493-70f1-b50a-3dbee18ad178",
+    "sectionId": "01a16070-7231-71f8-8134-3054b61e249f",
+    "sectionName": "Grade 8 A",
+    "subjectId": "01a16070-71e1-7210-863f-5751033317ff",
+    "subjectName": "Hindi",
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "teacherName": "Sunita Verma",
+    "room": "8A",
+    "substituted": false,
+    "substitution": null,
+    "relation": "own",
+    "state": "past"
+   },
+   {
+    "periodId": "01a16070-7163-72fe-a1b2-24e77ae20b08",
+    "periodName": "Period 4",
+    "ordinal": 5,
+    "startTime": "11:00",
+    "endTime": "11:45",
+    "isBreak": false,
+    "slotId": "01a16070-748e-730b-bdf9-388055c03ccf",
+    "sectionId": "01a16070-722c-76d4-8ac0-d23d0c817b70",
+    "sectionName": "Grade 6 A",
+    "subjectId": "01a16070-71e1-7210-863f-474a2a3a0fe1",
+    "subjectName": "English",
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "teacherName": "Sunita Verma",
+    "room": "6A",
+    "substituted": false,
+    "substitution": null,
+    "relation": "own",
+    "state": "past"
+   },
+   {
+    "periodId": "01a16070-7163-72fe-a1b2-354b946c79a6",
+    "periodName": "Period 7",
+    "ordinal": 9,
+    "startTime": "14:00",
+    "endTime": "14:45",
+    "isBreak": false,
+    "slotId": "01a16070-7495-7071-8752-b5cc24d4ccdd",
+    "sectionId": "01a16070-7236-73f5-885e-da19ae266697",
+    "sectionName": "Grade 10 B",
+    "subjectId": "01a16070-71e1-7210-863f-594a090e8d25",
+    "subjectName": "Computer Science",
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "teacherName": "Sunita Verma",
+    "room": "10B",
+    "substituted": false,
+    "substitution": null,
+    "relation": "own",
+    "state": "past"
+   }
+  ],
+  "current": null,
+  "next": null
+ },
+ "homework": {
+  "toReviewCount": 38,
+  "dueSoon": [
+   {
+    "id": "01a16070-74b3-7740-9bb3-336ffca4368c",
+    "sectionId": "01a16070-7232-7243-b18a-c35f4d46666a",
+    "sectionName": "B",
+    "gradeName": "Grade 8",
+    "subjectId": "01a16070-71e1-7210-863f-4ad12950b8bd",
+    "subjectName": "Mathematics",
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "teacherName": "Sunita Verma",
+    "title": "Exercise problems 1 to 10",
+    "description": "Exercise problems 1 to 10. Write neatly in your notebook and submit a photo or a short note here. Ask your subject teacher if you have doubts.",
+    "attachments": [],
+    "assignedAt": "2026-10-19T11:30:00.000Z",
+    "dueAt": "2026-10-24T11:30:00.000Z",
+    "allowSubmission": true,
+    "maxMarks": 20,
+    "status": "published",
+    "createdAt": "2026-10-21T21:49:05.082Z",
+    "updatedAt": "2026-10-23T10:15:17.171Z",
+    "learner": null,
+    "stats": {
+     "totalStudents": 24,
+     "submitted": 9,
+     "late": 0,
+     "reviewed": 0,
+     "returned": 0,
+     "missing": 15
+    }
+   }
+  ]
+ },
+ "marks": {
+  "pendingCount": 1,
+  "returnedCount": 0,
+  "items": [
+   {
+    "sheetId": "01a16070-7592-77d2-87a6-1235427d02c6",
+    "examName": "Mid-Term Examination",
+    "sectionName": "Grade 10 B",
+    "subject": "Computer Science",
+    "status": "draft"
+   }
+  ]
+ },
+ "pendingLeaveCount": 1,
+ "meetings": [
+  {
+   "id": "01a16070-77a4-758e-a706-3180ef46f4eb",
+   "status": "confirmed",
+   "student": {
+    "id": "01a16070-723f-74de-af25-003b5a68a27f",
+    "name": "Divya Sharma",
+    "admissionNo": "GV20260004",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a16070-723f-74de-af25-0b8d8f091476",
+    "name": "Rohan Sharma"
+   },
+   "topic": "Career guidance and subject choices",
+   "proposedAt": null,
+   "scheduledAt": "2026-10-24T08:30:00.000Z",
+   "durationMin": 15,
+   "mode": "online",
+   "locationOrLink": "https://meet.example.org/greenvalley-ptm-3",
+   "outcomeNotes": null,
+   "createdAt": "2026-10-16T21:49:05.591Z",
+   "updatedAt": "2026-10-21T21:49:05.829Z",
+   "availableActions": [
+    "reschedule",
+    "complete",
+    "cancel"
+   ]
+  },
+  {
+   "id": "01a16070-77a4-758e-a706-1d5d742103fe",
+   "status": "confirmed",
+   "student": {
+    "id": "01a16070-723f-74de-af24-d05ac37bdd7d",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a16070-723f-74de-af24-da521fa39b83",
+    "name": "Arjun Bose"
+   },
+   "topic": "Settling in and attendance this term",
+   "proposedAt": null,
+   "scheduledAt": "2026-10-25T05:00:00.000Z",
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": "Room 6A",
+   "outcomeNotes": null,
+   "createdAt": "2026-10-17T21:49:05.591Z",
+   "updatedAt": "2026-10-21T21:49:05.829Z",
+   "availableActions": [
+    "reschedule",
+    "complete",
+    "cancel"
+   ]
+  },
+  {
+   "id": "01a16070-77a4-758e-a706-288cee50462f",
+   "status": "requested",
+   "student": {
+    "id": "01a16070-723f-74de-af24-e32012f890be",
+    "name": "Tanvi Patel",
+    "admissionNo": "GV20260002",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a16070-71f8-72ea-ba28-a0992e092854",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a16070-723f-74de-af24-e86435ddf204",
+    "name": "Rohan Patel"
+   },
+   "topic": "Concerned about recent absences",
+   "proposedAt": "2026-10-28T03:30:00.000Z",
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": null,
+   "createdAt": "2026-10-21T15:49:05.591Z",
+   "updatedAt": "2026-10-21T21:49:05.829Z",
+   "availableActions": [
+    "confirm",
+    "decline",
+    "cancel"
+   ]
+  }
+ ],
+ "announcements": {
+  "unreadCount": 2,
+  "pendingAckCount": 0,
+  "latest": [
+   {
+    "id": "01a16070-76b7-71f5-8008-5a255d05c67e",
+    "title": "School closed tomorrow due to heavy rain",
+    "body": "Following the weather advisory, the school will remain closed tomorrow. Online worksheets will be shared by class teachers. Classes resume the day after.",
+    "priority": "urgent",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-21T18:49:05.591Z",
+    "expiresAt": null,
+    "createdAt": "2026-10-21T21:49:05.592Z",
+    "updatedAt": "2026-10-21T21:49:05.592Z",
+    "author": {
+     "id": "01a16070-71e5-7537-9d53-adc1072008b9",
+     "name": "Dr. Meenakshi Raman"
+    },
+    "read": true,
+    "readAt": "2026-10-22T01:50:05.591Z",
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": false,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   },
+   {
+    "id": "01a16070-76b7-71f5-8008-73b94c17cb26",
+    "title": "Staff meeting on Friday",
+    "body": "All teaching staff are requested to attend the staff meeting on Friday at 3:45 pm in the conference room. Agenda: term-end assessments and the Annual Day.",
+    "priority": "normal",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-18T21:49:05.591Z",
+    "expiresAt": null,
+    "createdAt": "2026-10-21T21:49:05.592Z",
+    "updatedAt": "2026-10-21T21:49:05.592Z",
+    "author": {
+     "id": "01a16070-71e5-7537-9d53-adc1072008b9",
+     "name": "Dr. Meenakshi Raman"
+    },
+    "read": false,
+    "readAt": null,
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": false,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   },
+   {
+    "id": "01a16070-76b7-71f5-8008-6f5b35141d63",
+    "title": "Library week: book fair and reading challenge",
+    "body": "The library is celebrating Reading Week with a book fair, author talk and a reading challenge for all classes. Visit the library during breaks to register.",
+    "priority": "normal",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-09T21:49:05.591Z",
+    "expiresAt": "2026-10-27T21:49:05.591Z",
+    "createdAt": "2026-10-21T21:49:05.592Z",
+    "updatedAt": "2026-10-21T21:49:05.592Z",
+    "author": {
+     "id": "01a16070-71e9-70a6-b0ad-91e382c53884",
+     "name": "Prakash Naidu"
+    },
+    "read": false,
+    "readAt": null,
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": false,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   }
+  ]
+ },
+ "calendar": [
+  {
+   "id": "homework:01a16070-74b2-7205-949b-ec5bacda0fc6",
+   "kind": "homework_due",
+   "title": "Due: Algebra: solving linear equations",
+   "subtitle": "Mathematics \u00b7 Grade 8 A",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b2-7205-949b-ec5bacda0fc6",
+   "route": "/homework/01a16070-74b2-7205-949b-ec5bacda0fc6"
+  },
+  {
+   "id": "homework:01a16070-74b3-7740-9bb3-336ffca4368c",
+   "kind": "homework_due",
+   "title": "Due: Exercise problems 1 to 10",
+   "subtitle": "Mathematics \u00b7 Grade 8 B",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b3-7740-9bb3-336ffca4368c",
+   "route": "/homework/01a16070-74b3-7740-9bb3-336ffca4368c"
+  }
+ ],
+ "notifications": {
+  "unreadCount": 16
+ }
+}

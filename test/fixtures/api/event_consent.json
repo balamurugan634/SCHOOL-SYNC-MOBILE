@@ -1,0 +1,32 @@
+{
+ "id": "01a15f30-152c-715d-ab95-926c4d3e4c6d",
+ "title": "Grade 6 field trip: City Zoo & Science Park",
+ "description": "A full-day educational visit with teachers and attendants. Bus leaves at 8:00 am and returns by 4:30 pm. Packed lunch required.",
+ "kind": "event",
+ "status": "published",
+ "startDate": "2026-11-08",
+ "endDate": "2026-11-08",
+ "startTime": "08:00",
+ "endTime": "16:30",
+ "allDay": false,
+ "location": "City Zoo",
+ "registrationRequired": false,
+ "consentRequired": true,
+ "consentText": "I give permission for my child to take part in the school trip to City Zoo & Science Park, and I accept the school\u2019s safety guidelines. I understand my child will travel by the school bus.",
+ "registrationDeadline": "2026-10-31T15:59:09.035Z",
+ "capacity": null,
+ "createdAt": "2026-10-21T15:59:09.101Z",
+ "canManage": false,
+ "responseOpen": true,
+ "children": [
+  {
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "studentName": "Ishaan Bose",
+   "response": "consent_given",
+   "note": null,
+   "respondedAt": "2026-10-21T16:43:19.054Z"
+  }
+ ],
+ "audience": [],
+ "counts": null
+}

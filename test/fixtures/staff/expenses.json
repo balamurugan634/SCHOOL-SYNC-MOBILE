@@ -1,0 +1,24 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-14e8-7439-af75-6b067e96ba25",
+   "category": "Salaries",
+   "description": "Support staff wages",
+   "amountMinor": 18500000,
+   "spentOn": "2026-10-02",
+   "paidTo": "Payroll",
+   "reference": "BILL-6272",
+   "receiptFileId": null,
+   "status": "pending",
+   "createdByName": "Latha Krishnan",
+   "approvedByName": null,
+   "createdAt": "2026-10-21T15:59:09.033Z"
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 25,
+  "total": 1,
+  "totalPages": 1
+ }
+}

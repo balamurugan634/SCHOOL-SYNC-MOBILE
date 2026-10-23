@@ -1,0 +1,66 @@
+{
+ "id": "01a15f30-0fbd-744b-ad80-6fc4cada56e1",
+ "userType": "parent",
+ "displayName": "Arjun Bose",
+ "username": "9000000001",
+ "email": "arjun.bose.9000000001@parents.school.test",
+ "phone": "9000000001",
+ "avatarUrl": null,
+ "locale": "en",
+ "mustChangePassword": false,
+ "roles": [
+  "parent"
+ ],
+ "experience": "parent",
+ "permissions": {
+  "academics:view": "linked",
+  "announcements:view": "own",
+  "attendance:view": "linked",
+  "event_responses:create": "linked",
+  "event_responses:view": "linked",
+  "events:view": "school",
+  "exams:view": "linked",
+  "fees:view": "linked",
+  "homework:view": "linked",
+  "leave:create": "linked",
+  "leave:edit": "linked",
+  "leave:view": "linked",
+  "library:view": "linked",
+  "marks:view": "linked",
+  "materials:view": "linked",
+  "meetings:create": "linked",
+  "meetings:view": "linked",
+  "notifications:edit": "own",
+  "notifications:view": "own",
+  "payments:create": "linked",
+  "payments:view": "linked",
+  "report_cards:view": "linked",
+  "reports:view": "linked",
+  "students:view": "linked",
+  "submissions:view": "linked",
+  "syllabus:view": "linked",
+  "timetable:view": "linked",
+  "transport:view": "linked"
+ },
+ "profile": {
+  "studentId": null,
+  "guardianId": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+  "staffId": null,
+  "children": [
+   {
+    "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A",
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "photoUrl": null
+   }
+  ],
+  "sectionId": null,
+  "gradeName": null,
+  "sectionName": null,
+  "classTeacherSectionIds": [],
+  "assignedSectionIds": []
+ }
+}

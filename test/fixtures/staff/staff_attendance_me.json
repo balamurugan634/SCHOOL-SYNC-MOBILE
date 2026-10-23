@@ -1,0 +1,52 @@
+{
+ "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+ "from": "2026-09-22",
+ "to": "2026-10-21",
+ "today": {
+  "id": "01a15f30-1263-7182-b9fd-46c6245e0a75",
+  "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+  "date": "2026-10-21",
+  "status": "present",
+  "checkIn": "08:17",
+  "checkOut": null,
+  "note": null
+ },
+ "totals": {
+  "present": 26,
+  "absent": 0,
+  "late": 0,
+  "leave": 0,
+  "half_day": 0,
+  "total": 26,
+  "percentage": 100
+ },
+ "records": [
+  {
+   "id": "01a15f30-1263-7182-b9fd-46c6245e0a75",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "date": "2026-10-21",
+   "status": "present",
+   "checkIn": "08:17",
+   "checkOut": null,
+   "note": null
+  },
+  {
+   "id": "01a15f30-1263-7182-b9fc-ecdb0c7644bf",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "date": "2026-10-20",
+   "status": "present",
+   "checkIn": "07:10",
+   "checkOut": "16:31",
+   "note": null
+  },
+  {
+   "id": "01a15f30-1263-7182-b9fc-948967cfe682",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "date": "2026-10-19",
+   "status": "present",
+   "checkIn": "08:14",
+   "checkOut": "16:34",
+   "note": null
+  }
+ ]
+}

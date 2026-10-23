@@ -1,0 +1,30 @@
+{
+ "data": [
+  {
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "studentName": "Ishaan Bose",
+   "allocated": true,
+   "route": {
+    "id": "01a15f30-15fd-70a6-ad40-7c82ad7c1f9b",
+    "name": "Route 1 \u2013 Whitefield & Lake View",
+    "pickupStartTime": "06:45",
+    "dropStartTime": "15:40"
+   },
+   "stop": {
+    "id": "01a15f30-15ff-7108-8396-c772bfdd51f0",
+    "name": "Kundalahalli Gate",
+    "pickupTime": "07:14",
+    "dropTime": "16:09"
+   },
+   "vehicle": {
+    "registrationNo": "KA-01-AB-1201",
+    "model": "Tata Starbus 40-seater"
+   },
+   "driver": {
+    "name": "Ramesh Gowda",
+    "phone": "9845012345"
+   },
+   "attendantName": "Lakshmi Devi"
+  }
+ ]
+}

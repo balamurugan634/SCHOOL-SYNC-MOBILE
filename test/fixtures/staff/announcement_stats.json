@@ -1,0 +1,55 @@
+{
+ "announcementId": "01a15f30-14eb-74a5-b63a-a9e558b45a9c",
+ "requiresAck": false,
+ "audienceSize": 476,
+ "readCount": 0,
+ "ackCount": 0,
+ "unreadCount": 476,
+ "pendingAckCount": 0,
+ "byUserType": [
+  {
+   "userType": "parent",
+   "audience": 213,
+   "read": 0,
+   "acked": 0
+  },
+  {
+   "userType": "staff",
+   "audience": 23,
+   "read": 0,
+   "acked": 0
+  },
+  {
+   "userType": "student",
+   "audience": 240,
+   "read": 0,
+   "acked": 0
+  }
+ ],
+ "bySection": [
+  {
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "gradeName": "Grade 6",
+   "sectionName": "A",
+   "audience": 48,
+   "read": 0,
+   "acked": 0
+  },
+  {
+   "sectionId": "01a15f30-0faf-7162-b7e3-bfc154c23d62",
+   "gradeName": "Grade 6",
+   "sectionName": "B",
+   "audience": 48,
+   "read": 0,
+   "acked": 0
+  },
+  {
+   "sectionId": "01a15f30-0fb0-7612-9905-0ba07b47cedc",
+   "gradeName": "Grade 7",
+   "sectionName": "A",
+   "audience": 48,
+   "read": 0,
+   "acked": 0
+  }
+ ]
+}

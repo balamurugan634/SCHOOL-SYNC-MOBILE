@@ -1,0 +1,75 @@
+{
+ "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+ "admissionNo": "GV20260001",
+ "firstName": "Ishaan",
+ "lastName": "Bose",
+ "name": "Ishaan Bose",
+ "gender": "male",
+ "dob": "2015-02-13",
+ "photoUrl": null,
+ "status": "active",
+ "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+ "gradeName": "Grade 6",
+ "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+ "sectionName": "A",
+ "rollNo": 1,
+ "bloodGroup": "B+",
+ "nationality": null,
+ "religion": null,
+ "category": null,
+ "address": {
+  "line1": "34, Park Street",
+  "city": "Bengaluru",
+  "state": "India",
+  "country": "IN"
+ },
+ "admissionDate": "2025-06-10",
+ "emergencyContacts": [
+  {
+   "name": "Arjun Bose",
+   "relationship": "parent",
+   "phone": "9000000001"
+  }
+ ],
+ "authorizedPickups": [
+  {
+   "name": "Arjun Bose",
+   "relationship": "parent",
+   "phone": "9000000001",
+   "active": true
+  }
+ ],
+ "medicalNotes": null,
+ "username": null,
+ "guardians": [
+  {
+   "guardianId": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+   "name": "Arjun Bose",
+   "relationship": "mother",
+   "isPrimary": true,
+   "canPickup": true,
+   "isEmergencyContact": true,
+   "verified": true,
+   "verifiedAt": "2026-10-21T15:59:07.709Z",
+   "phone": "9000000001",
+   "email": "arjun.bose.9000000001@parents.school.test",
+   "hasLogin": true
+  }
+ ],
+ "enrollments": [
+  {
+   "id": "01a15f30-103d-73c9-ad43-edb0b99da6a5",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "rollNo": 1,
+   "status": "enrolled",
+   "startedAt": "2026-04-01",
+   "endedAt": null
+  }
+ ],
+ "documents": null
+}

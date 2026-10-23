@@ -1,0 +1,409 @@
+{
+ "date": "2026-10-23",
+ "kpis": {
+  "students": 240,
+  "staff": 23,
+  "parents": 214,
+  "sections": 10,
+  "grades": 5
+ },
+ "attendance": {
+  "date": "2026-10-23",
+  "mode": "daily",
+  "isWorkingDay": true,
+  "holiday": null,
+  "totals": {
+   "present": 44,
+   "absent": 1,
+   "late": 1,
+   "leave": 0,
+   "half_day": 2,
+   "activeStudents": 240,
+   "markedStudents": 48,
+   "unmarkedStudents": 192,
+   "percentPresent": 95.8
+  },
+  "sectionsTotal": 10,
+  "sectionsMarked": 2,
+  "trend": [
+   {
+    "present": 220,
+    "absent": 11,
+    "late": 7,
+    "leave": 0,
+    "half_day": 2,
+    "date": "2026-10-17",
+    "percentPresent": 95
+   },
+   {
+    "present": 224,
+    "absent": 10,
+    "late": 4,
+    "leave": 0,
+    "half_day": 2,
+    "date": "2026-10-19",
+    "percentPresent": 95.4
+   },
+   {
+    "present": 221,
+    "absent": 10,
+    "late": 6,
+    "leave": 0,
+    "half_day": 3,
+    "date": "2026-10-20",
+    "percentPresent": 95.2
+   },
+   {
+    "present": 227,
+    "absent": 12,
+    "late": 0,
+    "leave": 0,
+    "half_day": 1,
+    "date": "2026-10-21",
+    "percentPresent": 94.8
+   },
+   {
+    "present": 179,
+    "absent": 5,
+    "late": 5,
+    "leave": 0,
+    "half_day": 3,
+    "date": "2026-10-22",
+    "percentPresent": 96.6
+   },
+   {
+    "present": 44,
+    "absent": 1,
+    "late": 1,
+    "leave": 0,
+    "half_day": 2,
+    "date": "2026-10-23",
+    "percentPresent": 95.8
+   }
+  ]
+ },
+ "approvals": {
+  "studentLeave": 3,
+  "staffLeave": 1,
+  "attendanceCorrections": 1,
+  "markSheetsForReview": 24,
+  "admissions": 5,
+  "correctionRequests": null,
+  "concessions": null,
+  "refunds": null,
+  "expenses": null
+ },
+ "finance": {
+  "from": "2026-04-01",
+  "to": "2026-10-23",
+  "currency": "INR",
+  "invoicedMinor": 800299000,
+  "collectedMinor": 668079800,
+  "refundedMinor": 0,
+  "netCollectedMinor": 668079800,
+  "expensesMinor": 29044000,
+  "netPositionMinor": 639035800,
+  "outstandingMinor": 497391200,
+  "overdueMinor": 177319200,
+  "collectionRatePercent": 77.84,
+  "byMonth": [
+   {
+    "month": "2026-06",
+    "collectedMinor": 354606000,
+    "expensesMinor": 1920000
+   },
+   {
+    "month": "2026-07",
+    "collectedMinor": 12336000,
+    "expensesMinor": 6160000
+   },
+   {
+    "month": "2026-08",
+    "collectedMinor": 0,
+    "expensesMinor": 4804000
+   },
+   {
+    "month": "2026-09",
+    "collectedMinor": 256037800,
+    "expensesMinor": 13220000
+   },
+   {
+    "month": "2026-10",
+    "collectedMinor": 45100000,
+    "expensesMinor": 2940000
+   }
+  ],
+  "pending": {
+   "refunds": 1,
+   "concessions": 3,
+   "expenses": 1
+  }
+ },
+ "exams": {
+  "upcoming": [
+   {
+    "examId": "01a16070-75d3-7212-b470-d61a0dd92dd9",
+    "name": "Annual Final Examination",
+    "startDate": "2026-11-25",
+    "status": "scheduled"
+   }
+  ],
+  "underReviewCount": 0
+ },
+ "enrollmentByGrade": [
+  {
+   "grade": "Grade 6",
+   "students": 48
+  },
+  {
+   "grade": "Grade 7",
+   "students": 48
+  },
+  {
+   "grade": "Grade 8",
+   "students": 48
+  },
+  {
+   "grade": "Grade 9",
+   "students": 48
+  },
+  {
+   "grade": "Grade 10",
+   "students": 48
+  }
+ ],
+ "license": null,
+ "alerts": [
+  {
+   "key": "attendance_unmarked",
+   "severity": "warning",
+   "message": "8 classes have not marked attendance today",
+   "count": 8,
+   "route": "/attendance"
+  },
+  {
+   "key": "insurance_expiring",
+   "severity": "warning",
+   "message": "2 vehicles have insurance expiring within 30 days",
+   "count": 2,
+   "route": "/transport/vehicles"
+  }
+ ],
+ "announcements": {
+  "unreadCount": 2,
+  "pendingAckCount": 0,
+  "latest": [
+   {
+    "id": "01a16070-76b7-71f5-8008-5a255d05c67e",
+    "title": "School closed tomorrow due to heavy rain",
+    "body": "Following the weather advisory, the school will remain closed tomorrow. Online worksheets will be shared by class teachers. Classes resume the day after.",
+    "priority": "urgent",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-21T18:49:05.591Z",
+    "expiresAt": null,
+    "createdAt": "2026-10-21T21:49:05.592Z",
+    "updatedAt": "2026-10-21T21:49:05.592Z",
+    "author": {
+     "id": "01a16070-71e5-7537-9d53-adc1072008b9",
+     "name": "Dr. Meenakshi Raman"
+    },
+    "read": false,
+    "readAt": null,
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": true,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   },
+   {
+    "id": "01a16070-76b7-71f5-8008-73b94c17cb26",
+    "title": "Staff meeting on Friday",
+    "body": "All teaching staff are requested to attend the staff meeting on Friday at 3:45 pm in the conference room. Agenda: term-end assessments and the Annual Day.",
+    "priority": "normal",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-18T21:49:05.591Z",
+    "expiresAt": null,
+    "createdAt": "2026-10-21T21:49:05.592Z",
+    "updatedAt": "2026-10-21T21:49:05.592Z",
+    "author": {
+     "id": "01a16070-71e5-7537-9d53-adc1072008b9",
+     "name": "Dr. Meenakshi Raman"
+    },
+    "read": false,
+    "readAt": null,
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": true,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   },
+   {
+    "id": "01a16070-76b7-71f5-8008-6f5b35141d63",
+    "title": "Library week: book fair and reading challenge",
+    "body": "The library is celebrating Reading Week with a book fair, author talk and a reading challenge for all classes. Visit the library during breaks to register.",
+    "priority": "normal",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-09T21:49:05.591Z",
+    "expiresAt": "2026-10-27T21:49:05.591Z",
+    "createdAt": "2026-10-21T21:49:05.592Z",
+    "updatedAt": "2026-10-21T21:49:05.592Z",
+    "author": {
+     "id": "01a16070-71e9-70a6-b0ad-91e382c53884",
+     "name": "Prakash Naidu"
+    },
+    "read": true,
+    "readAt": "2026-10-11T02:50:05.591Z",
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": true,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   }
+  ]
+ },
+ "calendar": [
+  {
+   "id": "homework:01a16070-74b0-70db-879b-e88fb409bec5",
+   "kind": "homework_due",
+   "title": "Due: Fractions and decimals worksheet",
+   "subtitle": "Mathematics \u00b7 Grade 6 B",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b0-70db-879b-e88fb409bec5",
+   "route": "/homework/01a16070-74b0-70db-879b-e88fb409bec5"
+  },
+  {
+   "id": "homework:01a16070-74b1-721a-ba7b-b16883fe40d4",
+   "kind": "homework_due",
+   "title": "Due: Word problems practice",
+   "subtitle": "Mathematics \u00b7 Grade 7 A",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b1-721a-ba7b-b16883fe40d4",
+   "route": "/homework/01a16070-74b1-721a-ba7b-b16883fe40d4"
+  },
+  {
+   "id": "homework:01a16070-74b2-7205-949b-ec5bacda0fc6",
+   "kind": "homework_due",
+   "title": "Due: Algebra: solving linear equations",
+   "subtitle": "Mathematics \u00b7 Grade 8 A",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b2-7205-949b-ec5bacda0fc6",
+   "route": "/homework/01a16070-74b2-7205-949b-ec5bacda0fc6"
+  },
+  {
+   "id": "homework:01a16070-74b3-7740-9bb3-336ffca4368c",
+   "kind": "homework_due",
+   "title": "Due: Exercise problems 1 to 10",
+   "subtitle": "Mathematics \u00b7 Grade 8 B",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b3-7740-9bb3-336ffca4368c",
+   "route": "/homework/01a16070-74b3-7740-9bb3-336ffca4368c"
+  },
+  {
+   "id": "homework:01a16070-74b5-7340-8207-64302b3ea289",
+   "kind": "homework_due",
+   "title": "Due: Word problems practice",
+   "subtitle": "Mathematics \u00b7 Grade 9 B",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b5-7340-8207-64302b3ea289",
+   "route": "/homework/01a16070-74b5-7340-8207-64302b3ea289"
+  },
+  {
+   "id": "homework:01a16070-74b5-7340-8207-8f5ca2a1ac9a",
+   "kind": "homework_due",
+   "title": "Due: Geometry: construct and label",
+   "subtitle": "Mathematics \u00b7 Grade 10 A",
+   "date": "2026-10-24",
+   "endDate": "2026-10-24",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a16070-74b5-7340-8207-8f5ca2a1ac9a",
+   "route": "/homework/01a16070-74b5-7340-8207-8f5ca2a1ac9a"
+  },
+  {
+   "id": "event:01a16070-76f0-763b-b097-980bcd2c3699",
+   "kind": "other",
+   "title": "Inter-school quiz",
+   "subtitle": "Cancelled",
+   "date": "2026-10-30",
+   "endDate": "2026-10-30",
+   "startTime": null,
+   "endTime": null,
+   "allDay": true,
+   "location": null,
+   "status": "cancelled",
+   "studentId": null,
+   "entityId": "01a16070-76f0-763b-b097-980bcd2c3699",
+   "route": "/events/01a16070-76f0-763b-b097-980bcd2c3699"
+  },
+  {
+   "id": "event:01a16070-76f0-763b-b097-89adf1c77866",
+   "kind": "ptm",
+   "title": "Parent\u2013Teacher Meeting",
+   "subtitle": "Classrooms",
+   "date": "2026-11-03",
+   "endDate": "2026-11-03",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "allDay": false,
+   "location": "Classrooms",
+   "status": "published",
+   "studentId": null,
+   "entityId": "01a16070-76f0-763b-b097-89adf1c77866",
+   "route": "/events/01a16070-76f0-763b-b097-89adf1c77866"
+  }
+ ],
+ "notifications": {
+  "unreadCount": 0
+ }
+}

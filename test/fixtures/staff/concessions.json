@@ -1,0 +1,61 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-1402-747d-b7c7-22096637d0a4",
+   "studentId": "01a15f30-0fbd-744b-ad81-ab46cbe85859",
+   "studentName": "Rohan Iyer",
+   "admissionNo": "GV20260021",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "name": "Financial hardship waiver",
+   "type": "percent",
+   "value": 2500,
+   "categoryId": null,
+   "categoryName": null,
+   "reason": "Parent lost employment; documents submitted",
+   "status": "pending",
+   "appliedMinor": 0,
+   "decidedAt": null,
+   "createdAt": "2026-10-21T15:59:08.804Z"
+  },
+  {
+   "id": "01a15f30-1402-747d-b7c7-269180f6ecde",
+   "studentId": "01a15f30-0fbe-7319-a0fb-9a0d78e2aa2f",
+   "studentName": "Yash Rao",
+   "admissionNo": "GV20260022",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "name": "Financial hardship waiver",
+   "type": "percent",
+   "value": 2500,
+   "categoryId": null,
+   "categoryName": null,
+   "reason": "Parent lost employment; documents submitted",
+   "status": "pending",
+   "appliedMinor": 0,
+   "decidedAt": null,
+   "createdAt": "2026-10-21T15:59:08.804Z"
+  },
+  {
+   "id": "01a15f30-1402-747d-b7c7-2af8a3e978f3",
+   "studentId": "01a15f30-0fbe-7319-a0fb-ca1236212bc5",
+   "studentName": "Lakshmi Nair",
+   "admissionNo": "GV20260025",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "name": "Sports quota",
+   "type": "fixed",
+   "value": 500000,
+   "categoryId": null,
+   "categoryName": null,
+   "reason": "State-level athlete",
+   "status": "pending",
+   "appliedMinor": 0,
+   "decidedAt": null,
+   "createdAt": "2026-10-21T15:59:08.804Z"
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 25,
+  "total": 3,
+  "totalPages": 1
+ }
+}

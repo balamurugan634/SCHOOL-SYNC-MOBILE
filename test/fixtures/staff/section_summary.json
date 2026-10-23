@@ -1,0 +1,113 @@
+{
+ "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+ "sectionName": "A",
+ "gradeName": "Grade 6",
+ "from": "2026-09-22",
+ "to": "2026-10-21",
+ "strength": 24,
+ "totals": {
+  "present": 587,
+  "absent": 18,
+  "late": 13,
+  "leave": 3,
+  "half_day": 3,
+  "total": 624,
+  "percentage": 96.9
+ },
+ "days": [
+  {
+   "present": 23,
+   "absent": 1,
+   "late": 0,
+   "leave": 0,
+   "half_day": 0,
+   "date": "2026-09-22",
+   "percentage": 95.8
+  },
+  {
+   "present": 24,
+   "absent": 0,
+   "late": 0,
+   "leave": 0,
+   "half_day": 0,
+   "date": "2026-09-23",
+   "percentage": 100
+  },
+  {
+   "present": 21,
+   "absent": 1,
+   "late": 2,
+   "leave": 0,
+   "half_day": 0,
+   "date": "2026-09-24",
+   "percentage": 95.8
+  },
+  {
+   "present": 22,
+   "absent": 1,
+   "late": 1,
+   "leave": 0,
+   "half_day": 0,
+   "date": "2026-09-25",
+   "percentage": 95.8
+  }
+ ],
+ "students": [
+  {
+   "present": 24,
+   "absent": 0,
+   "late": 2,
+   "leave": 0,
+   "half_day": 0,
+   "total": 26,
+   "percentage": 100,
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "name": "Ishaan Bose",
+   "admissionNo": "GV20260001",
+   "rollNo": 1,
+   "isShort": false
+  },
+  {
+   "present": 24,
+   "absent": 1,
+   "late": 1,
+   "leave": 0,
+   "half_day": 0,
+   "total": 26,
+   "percentage": 96.2,
+   "studentId": "01a15f30-0fbd-744b-ad80-7b96e552da00",
+   "name": "Tanvi Patel",
+   "admissionNo": "GV20260002",
+   "rollNo": 2,
+   "isShort": false
+  },
+  {
+   "present": 24,
+   "absent": 0,
+   "late": 2,
+   "leave": 0,
+   "half_day": 0,
+   "total": 26,
+   "percentage": 100,
+   "studentId": "01a15f30-0fbd-744b-ad80-8b91c174931d",
+   "name": "Saanvi Gupta",
+   "admissionNo": "GV20260003",
+   "rollNo": 3,
+   "isShort": false
+  },
+  {
+   "present": 22,
+   "absent": 4,
+   "late": 0,
+   "leave": 0,
+   "half_day": 0,
+   "total": 26,
+   "percentage": 84.6,
+   "studentId": "01a15f30-0fbd-744b-ad80-98c88cca0868",
+   "name": "Divya Sharma",
+   "admissionNo": "GV20260004",
+   "rollNo": 4,
+   "isShort": false
+  }
+ ]
+}

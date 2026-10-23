@@ -1,0 +1,86 @@
+{
+ "asOf": "2026-10-23",
+ "currency": "INR",
+ "invoices": 347,
+ "outstandingMinor": 497391200,
+ "overdueMinor": 177319200,
+ "buckets": {
+  "notDue": 320072000,
+  "d1to30": 0,
+  "d31to60": 109134200,
+  "d61to90": 0,
+  "d90plus": 68185000
+ },
+ "rows": [
+  {
+   "id": "01a16070-71df-750b-af74-bbe71ffde390",
+   "name": "Grade 6",
+   "invoices": 65,
+   "outstandingMinor": 77460600,
+   "overdueMinor": 21648600,
+   "buckets": {
+    "notDue": 55812000,
+    "d1to30": 0,
+    "d31to60": 15897600,
+    "d61to90": 0,
+    "d90plus": 5751000
+   }
+  },
+  {
+   "id": "01a16070-71df-750b-af74-bf527e377cb3",
+   "name": "Grade 7",
+   "invoices": 72,
+   "outstandingMinor": 96788000,
+   "overdueMinor": 33608000,
+   "buckets": {
+    "notDue": 63180000,
+    "d1to30": 0,
+    "d31to60": 19626000,
+    "d61to90": 0,
+    "d90plus": 13982000
+   }
+  },
+  {
+   "id": "01a16070-71df-750b-af74-c1f5f691e72a",
+   "name": "Grade 8",
+   "invoices": 76,
+   "outstandingMinor": 111066000,
+   "overdueMinor": 41946000,
+   "buckets": {
+    "notDue": 69120000,
+    "d1to30": 0,
+    "d31to60": 25674000,
+    "d61to90": 0,
+    "d90plus": 16272000
+   }
+  },
+  {
+   "id": "01a16070-71df-750b-af74-c76573558eba",
+   "name": "Grade 9",
+   "invoices": 65,
+   "outstandingMinor": 100707000,
+   "overdueMinor": 39027000,
+   "buckets": {
+    "notDue": 61680000,
+    "d1to30": 0,
+    "d31to60": 22839000,
+    "d61to90": 0,
+    "d90plus": 16188000
+   }
+  },
+  {
+   "id": "01a16070-71df-750b-af74-c9c8c8ad3a01",
+   "name": "Grade 10",
+   "invoices": 69,
+   "outstandingMinor": 111369600,
+   "overdueMinor": 41089600,
+   "buckets": {
+    "notDue": 70280000,
+    "d1to30": 0,
+    "d31to60": 25097600,
+    "d61to90": 0,
+    "d90plus": 15992000
+   }
+  }
+ ]
+}

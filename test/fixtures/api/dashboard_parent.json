@@ -1,0 +1,547 @@
+{
+ "date": "2026-10-21",
+ "selectedStudentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+ "children": [
+  {
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "attendanceToday": "late",
+   "attendancePercentage": 100,
+   "outstandingMinor": 1560000,
+   "overdueCount": 0
+  }
+ ],
+ "child": {
+  "student": {
+   "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "name": "Ishaan Bose",
+   "admissionNo": "GV20260001",
+   "grade": "Grade 6",
+   "section": "A"
+  },
+  "attendance": {
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "studentName": "Ishaan Bose",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "from": "2026-04-01",
+   "to": "2026-10-21",
+   "totals": {
+    "present": 33,
+    "absent": 0,
+    "late": 2,
+    "leave": 0,
+    "half_day": 0,
+    "total": 35,
+    "percentage": 100
+   },
+   "shortage": {
+    "thresholdPercent": 75,
+    "isShort": false
+   },
+   "months": [
+    {
+     "present": 17,
+     "absent": 0,
+     "late": 0,
+     "leave": 0,
+     "half_day": 0,
+     "total": 17,
+     "percentage": 100,
+     "month": "2026-09"
+    },
+    {
+     "present": 16,
+     "absent": 0,
+     "late": 2,
+     "leave": 0,
+     "half_day": 0,
+     "total": 18,
+     "percentage": 100,
+     "month": "2026-10"
+    }
+   ]
+  },
+  "attendanceToday": "late",
+  "timetable": {
+   "date": "2026-10-21",
+   "dayOfWeek": 3,
+   "isWorkingDay": true,
+   "now": "22:17",
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "Grade 6 A",
+   "entries": [
+    {
+     "periodId": "01a15f30-0ead-704a-b891-db021dc6e2d1",
+     "periodName": "Period 1",
+     "ordinal": 1,
+     "startTime": "08:30",
+     "endTime": "09:15",
+     "isBreak": false,
+     "slotId": "01a15f30-126e-72df-89c4-e182250035e7",
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+     "subjectName": "English",
+     "staffId": "01a15f30-0f82-70dd-9a1e-19a5676fd877",
+     "teacherName": "Rajesh Kulkarni",
+     "room": "6A",
+     "substituted": true,
+     "substitution": {
+      "id": "01a15f30-128d-707d-80a1-8e79969b0910",
+      "originalStaffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+      "originalTeacherName": "Sunita Verma",
+      "substituteStaffId": "01a15f30-0f82-70dd-9a1e-19a5676fd877",
+      "substituteTeacherName": "Rajesh Kulkarni",
+      "reason": "Teacher on official duty"
+     },
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-dc41340497bc",
+     "periodName": "Period 2",
+     "ordinal": 2,
+     "startTime": "09:15",
+     "endTime": "10:00",
+     "isBreak": false,
+     "slotId": "01a15f30-1272-749d-a7d6-4f5efc473e2a",
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+     "subjectName": "Science",
+     "staffId": "01a15f30-0f85-7647-8e40-d6a5f7a65759",
+     "teacherName": "Anjali Desai",
+     "room": "6A",
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-e25e05d49d65",
+     "periodName": "Short break",
+     "ordinal": 3,
+     "startTime": "10:00",
+     "endTime": "10:15",
+     "isBreak": true,
+     "slotId": null,
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": null,
+     "subjectName": null,
+     "staffId": null,
+     "teacherName": null,
+     "room": null,
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-e409c615f6b0",
+     "periodName": "Period 3",
+     "ordinal": 4,
+     "startTime": "10:15",
+     "endTime": "11:00",
+     "isBreak": false,
+     "slotId": "01a15f30-1274-748f-ae5b-0fcc01a1d888",
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+     "subjectName": "Hindi",
+     "staffId": "01a15f30-0f8c-7471-b454-acbb4d1e886f",
+     "teacherName": "Fatima Sheikh",
+     "room": "6A",
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-ea0638c6c22d",
+     "periodName": "Period 4",
+     "ordinal": 5,
+     "startTime": "11:00",
+     "endTime": "11:45",
+     "isBreak": false,
+     "slotId": "01a15f30-1273-771c-a8bb-69a8543f7493",
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+     "subjectName": "Social Studies",
+     "staffId": "01a15f30-0f88-7518-88b7-9005a78632a6",
+     "teacherName": "Mohan Das",
+     "room": "6A",
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-ec53dc91412d",
+     "periodName": "Lunch",
+     "ordinal": 6,
+     "startTime": "11:45",
+     "endTime": "12:30",
+     "isBreak": true,
+     "slotId": null,
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": null,
+     "subjectName": null,
+     "staffId": null,
+     "teacherName": null,
+     "room": null,
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-f3f26e78d2a4",
+     "periodName": "Period 5",
+     "ordinal": 7,
+     "startTime": "12:30",
+     "endTime": "13:15",
+     "isBreak": false,
+     "slotId": null,
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": null,
+     "subjectName": null,
+     "staffId": null,
+     "teacherName": null,
+     "room": null,
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-f6001d5aed14",
+     "periodName": "Period 6",
+     "ordinal": 8,
+     "startTime": "13:15",
+     "endTime": "14:00",
+     "isBreak": false,
+     "slotId": "01a15f30-1276-746e-96b0-047d245c2aaa",
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+     "subjectName": "Physical Education",
+     "staffId": "01a15f30-0f92-73b3-ae68-9797b36b93b7",
+     "teacherName": "Lata Subramanian",
+     "room": "6A",
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    },
+    {
+     "periodId": "01a15f30-0ead-704a-b891-fa788ad14829",
+     "periodName": "Period 7",
+     "ordinal": 9,
+     "startTime": "14:00",
+     "endTime": "14:45",
+     "isBreak": false,
+     "slotId": "01a15f30-1275-7629-886a-9f241931b7eb",
+     "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+     "sectionName": "Grade 6 A",
+     "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+     "subjectName": "Computer Science",
+     "staffId": "01a15f30-0f8f-77dd-b4c5-68fdd476b2c6",
+     "teacherName": "Vikram Chauhan",
+     "room": "6A",
+     "substituted": false,
+     "substitution": null,
+     "relation": null,
+     "state": "past"
+    }
+   ],
+   "current": null,
+   "next": null
+  },
+  "homework": {
+   "pendingCount": 0,
+   "overdueCount": 0,
+   "items": []
+  },
+  "upcomingExams": [
+   {
+    "examId": "01a15f30-13c6-7023-9165-09f28a4e577d",
+    "examName": "Annual Final Examination",
+    "subject": "English",
+    "date": "2026-11-25",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "room": "Exam Hall A"
+   },
+   {
+    "examId": "01a15f30-13c6-7023-9165-09f28a4e577d",
+    "examName": "Annual Final Examination",
+    "subject": "Mathematics",
+    "date": "2026-11-26",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "room": "Exam Hall A"
+   },
+   {
+    "examId": "01a15f30-13c6-7023-9165-09f28a4e577d",
+    "examName": "Annual Final Examination",
+    "subject": "Science",
+    "date": "2026-11-27",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "room": "Exam Hall A"
+   },
+   {
+    "examId": "01a15f30-13c6-7023-9165-09f28a4e577d",
+    "examName": "Annual Final Examination",
+    "subject": "Social Studies",
+    "date": "2026-11-28",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "room": "Exam Hall A"
+   },
+   {
+    "examId": "01a15f30-13c6-7023-9165-09f28a4e577d",
+    "examName": "Annual Final Examination",
+    "subject": "Hindi",
+    "date": "2026-11-30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "room": "Exam Hall A"
+   }
+  ],
+  "publishedResults": [
+   {
+    "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+    "examName": "Term 1 Final Examination",
+    "publishedAt": "2026-10-05T11:00:00Z"
+   }
+  ]
+ },
+ "fees": {
+  "currency": "INR",
+  "outstandingMinor": 1560000,
+  "overdueMinor": 0,
+  "overdueCount": 0,
+  "nextDue": {
+   "invoiceId": "01a15f30-1416-720f-ac78-0546c434a295",
+   "title": "Grade 6 fees + transport 2026-27 - due 2026-12-10",
+   "studentName": "Ishaan Bose",
+   "dueDate": "2026-12-10",
+   "balanceMinor": 1560000
+  }
+ },
+ "meetings": [
+  {
+   "id": "01a15f30-15ee-7294-8f4b-77aa09a0d91e",
+   "status": "confirmed",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Settling in and attendance this term",
+   "proposedAt": null,
+   "scheduledAt": "2026-10-24T05:00:00.000Z",
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": "Room 6A",
+   "outcomeNotes": null,
+   "createdAt": "2026-10-17T15:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": [
+    "cancel"
+   ]
+  },
+  {
+   "id": "01a15f30-15ee-7294-8f4b-70d43f41c52d",
+   "status": "requested",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f82-70dd-9a1e-19a5676fd877",
+    "name": "Rajesh Kulkarni",
+    "designation": "Mathematics Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Discuss progress in Mathematics and the upcoming mid-term",
+   "proposedAt": "2026-10-26T09:30:00.000Z",
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": null,
+   "createdAt": "2026-10-20T12:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": [
+    "cancel"
+   ]
+  }
+ ],
+ "pendingLeaveCount": 0,
+ "announcements": {
+  "unreadCount": 2,
+  "pendingAckCount": 1,
+  "latest": [
+   {
+    "id": "01a15f30-14eb-74a5-b63a-8be8e7f075d8",
+    "title": "School closed tomorrow due to heavy rain",
+    "body": "Following the weather advisory, the school will remain closed tomorrow. Online worksheets will be shared by class teachers. Classes resume the day after.",
+    "priority": "urgent",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-21T12:59:09.035Z",
+    "expiresAt": null,
+    "createdAt": "2026-10-21T15:59:09.036Z",
+    "updatedAt": "2026-10-21T15:59:09.036Z",
+    "author": {
+     "id": "01a15f30-0f62-718f-bd38-f308be34610c",
+     "name": "Dr. Meenakshi Raman"
+    },
+    "read": true,
+    "readAt": "2026-10-22T08:00:09.035Z",
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": false,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   },
+   {
+    "id": "01a15f30-14eb-74a5-b63a-8d465133087a",
+    "title": "Annual Day rehearsal schedule",
+    "body": "Rehearsals for the Annual Day programme begin next week after school (3:30\u20135:00 pm). Participating students will receive their group lists from class teachers. Please ensure safe transport home.",
+    "priority": "important",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-20T09:59:09.035Z",
+    "expiresAt": null,
+    "createdAt": "2026-10-21T15:59:09.036Z",
+    "updatedAt": "2026-10-21T15:59:09.036Z",
+    "author": {
+     "id": "01a15f30-0f6e-72f5-9d0a-00aba79cdc69",
+     "name": "Prakash Naidu"
+    },
+    "read": false,
+    "readAt": null,
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": false,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   },
+   {
+    "id": "01a15f30-14eb-74a5-b63a-9636276cb4fe",
+    "title": "Grade 6 A: science project submission",
+    "body": "Please submit your science project charts and models by Friday. Projects will be displayed in the corridor exhibition. Label every item with name and roll number.",
+    "priority": "normal",
+    "status": "published",
+    "state": "published",
+    "requiresAck": false,
+    "attachments": [],
+    "publishAt": "2026-10-19T13:59:09.035Z",
+    "expiresAt": null,
+    "createdAt": "2026-10-21T15:59:09.036Z",
+    "updatedAt": "2026-10-21T15:59:09.036Z",
+    "author": {
+     "id": "01a15f30-0f7e-744e-a1ba-05cb96d6258c",
+     "name": "Sunita Verma"
+    },
+    "read": true,
+    "readAt": "2026-10-20T08:00:09.035Z",
+    "acknowledged": false,
+    "ackedAt": null,
+    "canManage": false,
+    "audience": [],
+    "readCount": null,
+    "ackCount": null
+   }
+  ]
+ },
+ "calendar": [
+  {
+   "id": "homework:01a15f30-1291-7181-89ff-79bccfc4a77e",
+   "kind": "homework_due",
+   "title": "Due: Design a greeting card",
+   "subtitle": "Art & Craft",
+   "date": "2026-10-21",
+   "endDate": "2026-10-21",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a15f30-1291-7181-89ff-79bccfc4a77e",
+   "route": "/homework/01a15f30-1291-7181-89ff-79bccfc4a77e"
+  },
+  {
+   "id": "homework:01a15f30-1291-7181-89ff-7f75b2be9734",
+   "kind": "homework_due",
+   "title": "Due: Vocabulary: word meanings and sentences",
+   "subtitle": "English",
+   "date": "2026-10-22",
+   "endDate": "2026-10-22",
+   "startTime": "17:00",
+   "endTime": null,
+   "allDay": false,
+   "location": null,
+   "status": null,
+   "studentId": null,
+   "entityId": "01a15f30-1291-7181-89ff-7f75b2be9734",
+   "route": "/homework/01a15f30-1291-7181-89ff-7f75b2be9734"
+  },
+  {
+   "id": "event:01a15f30-152c-715d-ab95-8fc32399364b",
+   "kind": "ptm",
+   "title": "Parent\u2013Teacher Meeting",
+   "subtitle": "Classrooms",
+   "date": "2026-11-02",
+   "endDate": "2026-11-02",
+   "startTime": "09:00",
+   "endTime": "13:00",
+   "allDay": false,
+   "location": "Classrooms",
+   "status": "published",
+   "studentId": null,
+   "entityId": "01a15f30-152c-715d-ab95-8fc32399364b",
+   "route": "/events/01a15f30-152c-715d-ab95-8fc32399364b"
+  }
+ ],
+ "notifications": {
+  "unreadCount": 25
+ }
+}

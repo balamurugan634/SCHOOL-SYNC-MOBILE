@@ -1,0 +1,1 @@
+{"code":"demo","name":"Green Valley Public School","shortName":null,"logoUrl":null,"primaryColor":"#1B6B4F","accentColor":null,"timezone":"Asia/Kolkata","locale":"en","currency":"INR","features":{"fees":true,"transport":true,"library":true,"onlinePayments":false,"studentLogin":true},"readOnly":false,"api":{"version":"1.0.0","minAppVersion":"1.0.0"}}

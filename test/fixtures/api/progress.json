@@ -1,0 +1,119 @@
+{
+ "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+ "exams": [
+  {
+   "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+   "name": "Term 1 Final Examination",
+   "examType": "final",
+   "date": "2026-09-14",
+   "percent": 57.14,
+   "grade": "C"
+  }
+ ],
+ "subjects": [
+  {
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 62,
+     "marks": 31,
+     "maxMarks": 50,
+     "isAbsent": false
+    }
+   ]
+  },
+  {
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 65,
+     "marks": 65,
+     "maxMarks": 100,
+     "isAbsent": false
+    }
+   ]
+  },
+  {
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 37,
+     "marks": 37,
+     "maxMarks": 100,
+     "isAbsent": false
+    }
+   ]
+  },
+  {
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 51,
+     "marks": 51,
+     "maxMarks": 100,
+     "isAbsent": false
+    }
+   ]
+  },
+  {
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 59,
+     "marks": 59,
+     "maxMarks": 100,
+     "isAbsent": false
+    }
+   ]
+  },
+  {
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 56,
+     "marks": 28,
+     "maxMarks": 50,
+     "isAbsent": false
+    }
+   ]
+  },
+  {
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 64,
+     "marks": 64,
+     "maxMarks": 100,
+     "isAbsent": false
+    }
+   ]
+  },
+  {
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "points": [
+    {
+     "examId": "01a15f30-1310-7219-b146-77f94f8ab259",
+     "percent": 65,
+     "marks": 65,
+     "maxMarks": 100,
+     "isAbsent": false
+    }
+   ]
+  }
+ ]
+}

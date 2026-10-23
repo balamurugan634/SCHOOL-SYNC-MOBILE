@@ -1,0 +1,122 @@
+{
+ "date": "2026-10-21",
+ "mode": "daily",
+ "isWorkingDay": true,
+ "holiday": null,
+ "totals": {
+  "present": 178,
+  "absent": 5,
+  "late": 6,
+  "leave": 0,
+  "half_day": 3,
+  "activeStudents": 240,
+  "markedStudents": 192,
+  "unmarkedStudents": 48,
+  "percentPresent": 96.6
+ },
+ "sectionsTotal": 10,
+ "sectionsMarked": 8,
+ "sections": [
+  {
+   "present": 22,
+   "absent": 0,
+   "late": 2,
+   "leave": 0,
+   "half_day": 0,
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "name": "A",
+   "gradeName": "Grade 6",
+   "classTeacherName": "Sunita Verma",
+   "strength": 24,
+   "marked": true,
+   "percentPresent": 100
+  },
+  {
+   "present": 24,
+   "absent": 0,
+   "late": 0,
+   "leave": 0,
+   "half_day": 0,
+   "sectionId": "01a15f30-0faf-7162-b7e3-bfc154c23d62",
+   "name": "B",
+   "gradeName": "Grade 6",
+   "classTeacherName": "Rajesh Kulkarni",
+   "strength": 24,
+   "marked": true,
+   "percentPresent": 100
+  },
+  {
+   "present": 24,
+   "absent": 0,
+   "late": 0,
+   "leave": 0,
+   "half_day": 0,
+   "sectionId": "01a15f30-0fb0-7612-9905-0ba07b47cedc",
+   "name": "A",
+   "gradeName": "Grade 7",
+   "classTeacherName": "Anjali Desai",
+   "strength": 24,
+   "marked": true,
+   "percentPresent": 100
+  }
+ ],
+ "absentees": [
+  {
+   "studentId": "01a15f30-0fbf-7337-996f-887daf7b8618",
+   "name": "Rohan Bose",
+   "admissionNo": "GV20260115",
+   "rollNo": 19,
+   "sectionId": "01a15f30-0fb2-722b-aaad-6112045c1fa8",
+   "sectionName": "Grade 8-A",
+   "remarks": "Family function"
+  },
+  {
+   "studentId": "01a15f30-0fbf-7337-996f-f2964a2d0fe0",
+   "name": "Ishaan Reddy",
+   "admissionNo": "GV20260122",
+   "rollNo": 2,
+   "sectionId": "01a15f30-0fb3-7229-8941-a0f0c0b75830",
+   "sectionName": "Grade 8-B",
+   "remarks": null
+  },
+  {
+   "studentId": "01a15f30-0fbf-7337-9970-23feb695f2b0",
+   "name": "Aarav Reddy",
+   "admissionNo": "GV20260125",
+   "rollNo": 5,
+   "sectionId": "01a15f30-0fb3-7229-8941-a0f0c0b75830",
+   "sectionName": "Grade 8-B",
+   "remarks": null
+  }
+ ],
+ "absenteesTotal": 5,
+ "trend": [
+  {
+   "present": 226,
+   "absent": 10,
+   "late": 3,
+   "leave": 1,
+   "half_day": 0,
+   "date": "2026-10-15",
+   "percentPresent": 95.8
+  },
+  {
+   "present": 220,
+   "absent": 11,
+   "late": 7,
+   "leave": 0,
+   "half_day": 2,
+   "date": "2026-10-16",
+   "percentPresent": 95
+  },
+  {
+   "present": 224,
+   "absent": 10,
+   "late": 4,
+   "leave": 0,
+   "half_day": 2,
+   "date": "2026-10-17",
+   "percentPresent": 95.4
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+ "studentName": "Ishaan Bose",
+ "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+ "from": "2026-04-01",
+ "to": "2026-10-21",
+ "totals": {
+  "present": 33,
+  "absent": 0,
+  "late": 2,
+  "leave": 0,
+  "half_day": 0,
+  "total": 35,
+  "percentage": 100
+ },
+ "shortage": {
+  "thresholdPercent": 75,
+  "isShort": false
+ },
+ "months": [
+  {
+   "present": 17,
+   "absent": 0,
+   "late": 0,
+   "leave": 0,
+   "half_day": 0,
+   "total": 17,
+   "percentage": 100,
+   "month": "2026-09"
+  },
+  {
+   "present": 16,
+   "absent": 0,
+   "late": 2,
+   "leave": 0,
+   "half_day": 0,
+   "total": 18,
+   "percentage": 100,
+   "month": "2026-10"
+  }
+ ]
+}

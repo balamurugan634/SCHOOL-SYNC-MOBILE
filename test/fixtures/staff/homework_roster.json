@@ -1,0 +1,65 @@
+{
+ "homework": {
+  "id": "01a15f30-1295-772f-a528-40a20f75f2e3",
+  "sectionId": "01a15f30-0fb1-778d-971f-bb57101ab51b",
+  "sectionName": "B",
+  "gradeName": "Grade 7",
+  "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+  "subjectName": "Art & Craft",
+  "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+  "teacherName": "Sunita Verma",
+  "title": "Colour wheel in poster colours",
+  "description": "Colour wheel in poster colours. Write neatly in your notebook. Ask your subject teacher if you have doubts.",
+  "attachments": [],
+  "assignedAt": "2026-10-17T11:30:00.000Z",
+  "dueAt": "2026-10-21T11:30:00.000Z",
+  "allowSubmission": false,
+  "maxMarks": null,
+  "status": "published",
+  "createdAt": "2026-10-21T15:59:08.446Z",
+  "updatedAt": "2026-10-21T15:59:08.446Z",
+  "learner": null,
+  "stats": {
+   "totalStudents": 24,
+   "submitted": 0,
+   "late": 0,
+   "reviewed": 0,
+   "returned": 0,
+   "missing": 24
+  }
+ },
+ "data": [
+  {
+   "studentId": "01a15f30-0fbe-7319-a0fe-9b1d748770a0",
+   "name": "Krish Singh",
+   "admissionNo": "GV20260073",
+   "rollNo": 1,
+   "status": "missing",
+   "submission": null
+  },
+  {
+   "studentId": "01a15f30-0fbe-7319-a0fe-ab7286977748",
+   "name": "Aadhya Reddy",
+   "admissionNo": "GV20260074",
+   "rollNo": 2,
+   "status": "missing",
+   "submission": null
+  },
+  {
+   "studentId": "01a15f30-0fbe-7319-a0fe-b8bfec420ef8",
+   "name": "Yash Iyer",
+   "admissionNo": "GV20260075",
+   "rollNo": 3,
+   "status": "missing",
+   "submission": null
+  },
+  {
+   "studentId": "01a15f30-0fbe-7319-a0fe-c85dfc6123ca",
+   "name": "Siddharth Patel",
+   "admissionNo": "GV20260076",
+   "rollNo": 4,
+   "status": "missing",
+   "submission": null
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "name": "Grade 6",
+   "ordinal": 6,
+   "isActive": true
+  },
+  {
+   "id": "01a15f30-0f59-7224-a69e-88a63be8a268",
+   "name": "Grade 7",
+   "ordinal": 7,
+   "isActive": true
+  },
+  {
+   "id": "01a15f30-0f59-7224-a69e-8d5e5ae44289",
+   "name": "Grade 8",
+   "ordinal": 8,
+   "isActive": true
+  }
+ ]
+}

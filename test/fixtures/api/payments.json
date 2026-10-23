@@ -1,0 +1,46 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-14a8-7746-bae8-f6675dd3c91f",
+   "invoiceId": "01a15f30-1416-720f-ac77-fe9c53d0279e",
+   "invoiceNo": "INV-2026-000001",
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "studentName": "Ishaan Bose",
+   "amountMinor": 1710000,
+   "refundedMinor": 0,
+   "method": "cheque",
+   "status": "succeeded",
+   "reference": "CHQ-713270",
+   "receiptNo": "RCT-2026-000001",
+   "gateway": null,
+   "paidAt": "2026-06-13T11:12:00.000Z",
+   "receivedByName": "Latha Krishnan",
+   "notes": null,
+   "createdAt": "2026-10-21T15:59:08.985Z"
+  },
+  {
+   "id": "01a15f30-14a8-7746-bae8-f8fe88eaffec",
+   "invoiceId": "01a15f30-1416-720f-ac78-0198547277e7",
+   "invoiceNo": "INV-2026-000002",
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "studentName": "Ishaan Bose",
+   "amountMinor": 1560000,
+   "refundedMinor": 0,
+   "method": "bank_transfer",
+   "status": "succeeded",
+   "reference": "UTR8539790929",
+   "receiptNo": "RCT-2026-000002",
+   "gateway": null,
+   "paidAt": "2026-09-05T14:48:00.000Z",
+   "receivedByName": "Latha Krishnan",
+   "notes": null,
+   "createdAt": "2026-10-21T15:59:08.985Z"
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 5,
+  "total": 2,
+  "totalPages": 1
+ }
+}

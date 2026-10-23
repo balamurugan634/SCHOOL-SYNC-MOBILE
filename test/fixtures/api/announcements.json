@@ -1,0 +1,140 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-14eb-74a5-b63a-8be8e7f075d8",
+   "title": "School closed tomorrow due to heavy rain",
+   "body": "Following the weather advisory, the school will remain closed tomorrow. Online worksheets will be shared by class teachers. Classes resume the day after.",
+   "priority": "urgent",
+   "status": "published",
+   "state": "published",
+   "requiresAck": false,
+   "attachments": [],
+   "publishAt": "2026-10-21T12:59:09.035Z",
+   "expiresAt": null,
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f62-718f-bd38-f308be34610c",
+    "name": "Dr. Meenakshi Raman"
+   },
+   "read": true,
+   "readAt": "2026-10-22T04:00:09.035Z",
+   "acknowledged": false,
+   "ackedAt": null,
+   "canManage": false,
+   "audience": [],
+   "readCount": null,
+   "ackCount": null
+  },
+  {
+   "id": "01a15f30-14eb-74a5-b63a-8d465133087a",
+   "title": "Annual Day rehearsal schedule",
+   "body": "Rehearsals for the Annual Day programme begin next week after school (3:30\u20135:00 pm). Participating students will receive their group lists from class teachers. Please ensure safe transport home.",
+   "priority": "important",
+   "status": "published",
+   "state": "published",
+   "requiresAck": false,
+   "attachments": [],
+   "publishAt": "2026-10-20T09:59:09.035Z",
+   "expiresAt": null,
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f6e-72f5-9d0a-00aba79cdc69",
+    "name": "Prakash Naidu"
+   },
+   "read": true,
+   "readAt": "2026-10-21T16:43:13.637Z",
+   "acknowledged": false,
+   "ackedAt": null,
+   "canManage": false,
+   "audience": [],
+   "readCount": null,
+   "ackCount": null
+  },
+  {
+   "id": "01a15f30-14eb-74a5-b63a-9636276cb4fe",
+   "title": "Grade 6 A: science project submission",
+   "body": "Please submit your science project charts and models by Friday. Projects will be displayed in the corridor exhibition. Label every item with name and roll number.",
+   "priority": "normal",
+   "status": "published",
+   "state": "published",
+   "requiresAck": false,
+   "attachments": [],
+   "publishAt": "2026-10-19T13:59:09.035Z",
+   "expiresAt": null,
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f7e-744e-a1ba-05cb96d6258c",
+    "name": "Sunita Verma"
+   },
+   "read": true,
+   "readAt": "2026-10-20T02:00:09.035Z",
+   "acknowledged": false,
+   "ackedAt": null,
+   "canManage": false,
+   "audience": [],
+   "readCount": null,
+   "ackCount": null
+  },
+  {
+   "id": "01a15f30-14eb-74a5-b63a-9bfe9aeab839",
+   "title": "Updated code of conduct and bus safety policy",
+   "body": "The school has updated its code of conduct and school-bus safety policy for this year. Please read the attached summary with your child and acknowledge in the app. Acknowledgement is required for transport and extracurricular participation.",
+   "priority": "important",
+   "status": "published",
+   "state": "published",
+   "requiresAck": true,
+   "attachments": [],
+   "publishAt": "2026-10-16T15:59:09.035Z",
+   "expiresAt": null,
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f62-718f-bd38-f308be34610c",
+    "name": "Dr. Meenakshi Raman"
+   },
+   "read": true,
+   "readAt": "2026-10-21T16:41:22.638Z",
+   "acknowledged": true,
+   "ackedAt": "2026-10-21T16:42:54.952Z",
+   "canManage": false,
+   "audience": [],
+   "readCount": null,
+   "ackCount": null
+  },
+  {
+   "id": "01a15f30-14eb-74a5-b63a-9d036a0a1c4e",
+   "title": "Library week: book fair and reading challenge",
+   "body": "The library is celebrating Reading Week with a book fair, author talk and a reading challenge for all classes. Visit the library during breaks to register.",
+   "priority": "normal",
+   "status": "published",
+   "state": "published",
+   "requiresAck": false,
+   "attachments": [],
+   "publishAt": "2026-10-09T15:59:09.035Z",
+   "expiresAt": "2026-10-27T15:59:09.035Z",
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f6e-72f5-9d0a-00aba79cdc69",
+    "name": "Prakash Naidu"
+   },
+   "read": true,
+   "readAt": "2026-10-10T19:00:09.035Z",
+   "acknowledged": false,
+   "ackedAt": null,
+   "canManage": false,
+   "audience": [],
+   "readCount": null,
+   "ackCount": null
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 5,
+  "total": 5,
+  "totalPages": 1
+ }
+}

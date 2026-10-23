@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  DEBUG BUILDS ONLY. This file lives in src/debug, so Gradle never packages it into a release APK/AAB.
+
+  Cleartext HTTP is allowed so a debug build can talk to a development API on the emulator host
+  (http://10.0.2.2:4000), localhost, or a laptop on the same Wi-Fi (http://192.168.x.x:4000).
+  Android's network security config cannot express "private LAN ranges only", so debug allows any
+  cleartext host. The app itself still refuses http:// for non-debug builds (see Env.allowInsecure).
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

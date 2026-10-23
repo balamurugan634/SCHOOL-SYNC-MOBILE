@@ -1,0 +1,89 @@
+{
+ "categories": [
+  {
+   "category": "attendance",
+   "label": "Attendance",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "homework",
+   "label": "Homework",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "marks",
+   "label": "Marks & results",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "fees",
+   "label": "Fees & payments",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "announcement",
+   "label": "Announcements",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "event",
+   "label": "Events & calendar",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "meeting",
+   "label": "Parent\u2013teacher meetings",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "leave",
+   "label": "Leave",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "tasks",
+   "label": "Tasks & reminders",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  },
+  {
+   "category": "system",
+   "label": "School & system",
+   "push": true,
+   "email": false,
+   "quietFrom": null,
+   "quietTo": null
+  }
+ ],
+ "schoolDefaults": {
+  "quietFrom": "21:00",
+  "quietTo": "07:00"
+ },
+ "timezone": "Asia/Kolkata"
+}

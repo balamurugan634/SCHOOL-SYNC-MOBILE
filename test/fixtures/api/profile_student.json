@@ -1,0 +1,28 @@
+{
+ "userType": "student",
+ "displayName": "Ishaan Bose",
+ "username": "gv20260001",
+ "email": null,
+ "phone": null,
+ "address": {
+  "line1": "34, Park Street",
+  "city": "Bengaluru",
+  "state": "India",
+  "country": "IN"
+ },
+ "avatarUrl": null,
+ "emergencyContacts": [
+  {
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "studentName": "Ishaan Bose",
+   "contacts": [
+    {
+     "name": "Arjun Bose",
+     "relationship": "parent",
+     "phone": "9000000001"
+    }
+   ]
+  }
+ ],
+ "staff": null
+}

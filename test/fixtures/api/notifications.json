@@ -1,0 +1,84 @@
+{
+ "data": [
+  {
+   "id": "01a15f5b-9b49-741e-baa9-28cee8c8e189",
+   "type": "marks.scheduled",
+   "category": "marks",
+   "title": "Exam schedule published",
+   "body": "The schedule for zz-test exam is available.",
+   "data": {
+    "route": "/exams/01a15f5b-9ab6-7430-8a74-6e8937f51455",
+    "examId": "01a15f5b-9ab6-7430-8a74-6e8937f51455"
+   },
+   "priority": "normal",
+   "read": false,
+   "readAt": null,
+   "createdAt": "2026-10-21T16:46:41.484Z"
+  },
+  {
+   "id": "01a15f57-1abe-7682-96f3-84287ef8a456",
+   "type": "homework.reviewed",
+   "category": "homework",
+   "title": "Homework needs rework",
+   "body": "English: ZZ test review flow was returned with feedback.",
+   "data": {
+    "route": "/homework/01a15f57-0438-72bf-9592-0f19bdf00c3e",
+    "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "homeworkId": "01a15f57-0438-72bf-9592-0f19bdf00c3e"
+   },
+   "priority": "normal",
+   "read": false,
+   "readAt": null,
+   "createdAt": "2026-10-21T16:41:46.430Z"
+  },
+  {
+   "id": "01a15f57-135a-712d-bd68-e03bdfda41d8",
+   "type": "homework.reviewed",
+   "category": "homework",
+   "title": "Homework reviewed",
+   "body": "English: ZZ test review flow has been reviewed.",
+   "data": {
+    "route": "/homework/01a15f57-0438-72bf-9592-0f19bdf00c3e",
+    "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "homeworkId": "01a15f57-0438-72bf-9592-0f19bdf00c3e"
+   },
+   "priority": "normal",
+   "read": false,
+   "readAt": null,
+   "createdAt": "2026-10-21T16:41:44.539Z"
+  },
+  {
+   "id": "01a15f57-0ab6-7770-86fb-f407f47bb01d",
+   "type": "homework.assigned",
+   "category": "homework",
+   "title": "New homework",
+   "body": "English: ZZ test review flow. Due 2026-10-24.",
+   "data": {
+    "route": "/homework/01a15f57-0438-72bf-9592-0f19bdf00c3e",
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "homeworkId": "01a15f57-0438-72bf-9592-0f19bdf00c3e"
+   },
+   "priority": "normal",
+   "read": false,
+   "readAt": null,
+   "createdAt": "2026-10-21T16:41:42.329Z"
+  },
+  {
+   "id": "01a15f30-1589-7587-afdb-5329d3a85837",
+   "type": "announcement.new",
+   "category": "announcement",
+   "title": "School closed tomorrow due to heavy rain",
+   "body": "Following the weather advisory, the school will remain closed tomorrow. Online worksheets will be shared by class teachers. Classes resume \u2026",
+   "data": {
+    "route": "/announcements/01a15f30-14eb-74a5-b63a-8be8e7f075d8",
+    "announcementId": "01a15f30-14eb-74a5-b63a-8be8e7f075d8"
+   },
+   "priority": "high",
+   "read": true,
+   "readAt": "2026-10-21T14:00:09.035Z",
+   "createdAt": "2026-10-21T13:00:09.035Z"
+  }
+ ],
+ "nextCursor": "eyJhdCI6IjIwMjYtMTAtMjEgMTM6MDA6MDkuMDM1KzAwIiwiaWQiOiIwMWExNWYzMC0xNTg5LTc1ODctYWZkYi01MzI5ZDNhODU4MzcifQ"
+}

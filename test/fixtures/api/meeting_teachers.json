@@ -1,0 +1,76 @@
+{
+ "data": [
+  {
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "name": "Sunita Verma",
+   "designation": "English Teacher",
+   "isClassTeacher": true,
+   "subjects": [
+    "English"
+   ]
+  },
+  {
+   "staffId": "01a15f30-0f85-7647-8e40-d6a5f7a65759",
+   "name": "Anjali Desai",
+   "designation": "Science Teacher",
+   "isClassTeacher": false,
+   "subjects": [
+    "Science"
+   ]
+  },
+  {
+   "staffId": "01a15f30-0f8c-7471-b454-acbb4d1e886f",
+   "name": "Fatima Sheikh",
+   "designation": "Hindi Teacher",
+   "isClassTeacher": false,
+   "subjects": [
+    "Hindi"
+   ]
+  },
+  {
+   "staffId": "01a15f30-0f95-73bb-8233-f0da5061dd74",
+   "name": "Imran Qureshi",
+   "designation": "Art & Craft Teacher",
+   "isClassTeacher": false,
+   "subjects": [
+    "Art & Craft"
+   ]
+  },
+  {
+   "staffId": "01a15f30-0f92-73b3-ae68-9797b36b93b7",
+   "name": "Lata Subramanian",
+   "designation": "Physical Education Teacher",
+   "isClassTeacher": false,
+   "subjects": [
+    "Physical Education"
+   ]
+  },
+  {
+   "staffId": "01a15f30-0f88-7518-88b7-9005a78632a6",
+   "name": "Mohan Das",
+   "designation": "Social Studies Teacher",
+   "isClassTeacher": false,
+   "subjects": [
+    "Social Studies"
+   ]
+  },
+  {
+   "staffId": "01a15f30-0f82-70dd-9a1e-19a5676fd877",
+   "name": "Rajesh Kulkarni",
+   "designation": "Mathematics Teacher",
+   "isClassTeacher": false,
+   "subjects": [
+    "Mathematics"
+   ]
+  },
+  {
+   "staffId": "01a15f30-0f8f-77dd-b4c5-68fdd476b2c6",
+   "name": "Vikram Chauhan",
+   "designation": "Computer Science Teacher",
+   "isClassTeacher": false,
+   "subjects": [
+    "Computer Science"
+   ]
+  }
+ ]
+}

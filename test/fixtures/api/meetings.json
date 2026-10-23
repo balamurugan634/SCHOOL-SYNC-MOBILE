@@ -1,0 +1,164 @@
+{
+ "data": [
+  {
+   "id": "01a15f58-9b95-70bc-99eb-32d6c8a20c64",
+   "status": "cancelled",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f85-7647-8e40-d6a5f7a65759",
+    "name": "Anjali Desai",
+    "designation": "Science Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Science project guidance and lab safety",
+   "proposedAt": null,
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": null,
+   "createdAt": "2026-10-21T16:43:24.948Z",
+   "updatedAt": "2026-10-21T16:43:27.510Z",
+   "availableActions": []
+  },
+  {
+   "id": "01a15f30-15ee-7294-8f4b-70d43f41c52d",
+   "status": "requested",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f82-70dd-9a1e-19a5676fd877",
+    "name": "Rajesh Kulkarni",
+    "designation": "Mathematics Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Discuss progress in Mathematics and the upcoming mid-term",
+   "proposedAt": "2026-10-26T09:30:00.000Z",
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": null,
+   "createdAt": "2026-10-20T12:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": [
+    "cancel"
+   ]
+  },
+  {
+   "id": "01a15f30-15ee-7294-8f4b-77aa09a0d91e",
+   "status": "confirmed",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Settling in and attendance this term",
+   "proposedAt": null,
+   "scheduledAt": "2026-10-24T05:00:00.000Z",
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": "Room 6A",
+   "outcomeNotes": null,
+   "createdAt": "2026-10-17T15:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": [
+    "cancel"
+   ]
+  },
+  {
+   "id": "01a15f30-15ee-7294-8f4b-7db0f52104fd",
+   "status": "declined",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f82-70dd-9a1e-19a5676fd877",
+    "name": "Rajesh Kulkarni",
+    "designation": "Mathematics Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Extra classes for Science",
+   "proposedAt": null,
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": "Extra classes are not offered this term; please see the class teacher about the revision sessions.",
+   "createdAt": "2026-10-13T15:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": []
+  },
+  {
+   "id": "01a15f30-15ee-7294-8f4b-7a29975df3c9",
+   "status": "completed",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Review of first unit test results",
+   "proposedAt": null,
+   "scheduledAt": "2026-10-11T05:30:00.000Z",
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": "Staff room",
+   "outcomeNotes": "Strong in languages. Agreed a weekly practice plan for Mathematics and a check-in after the mid-term.",
+   "createdAt": "2026-10-07T15:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": []
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 5,
+  "total": 5,
+  "totalPages": 1
+ }
+}

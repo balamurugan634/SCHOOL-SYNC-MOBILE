@@ -1,0 +1,51 @@
+{
+ "staffId": "01a15f30-0f85-7647-8e40-d6a5f7a65759",
+ "name": "Anjali Desai",
+ "academicYear": "2026-27",
+ "sectionsLed": [
+  {
+   "sectionId": "01a15f30-0fb0-7612-9905-0ba07b47cedc",
+   "gradeName": "Grade 7",
+   "sectionName": "A",
+   "studentCount": 24
+  }
+ ],
+ "assignments": [
+  {
+   "assignmentId": "01a15f30-0fb8-70b1-9535-6f0ce60ee840",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "gradeName": "Grade 6",
+   "sectionName": "A",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectCode": "SCI",
+   "subjectName": "Science",
+   "periodsPerWeek": 5
+  },
+  {
+   "assignmentId": "01a15f30-0fb8-70b1-9535-ff420c96ef65",
+   "sectionId": "01a15f30-0fb2-722b-aaad-6112045c1fa8",
+   "gradeName": "Grade 8",
+   "sectionName": "A",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectCode": "PE",
+   "subjectName": "Physical Education",
+   "periodsPerWeek": 5
+  },
+  {
+   "assignmentId": "01a15f30-0fb8-70b1-9536-11e278907d7f",
+   "sectionId": "01a15f30-0fb3-7229-8941-a0f0c0b75830",
+   "gradeName": "Grade 8",
+   "sectionName": "B",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectCode": "SST",
+   "subjectName": "Social Studies",
+   "periodsPerWeek": 5
+  }
+ ],
+ "totals": {
+  "sections": 6,
+  "subjects": 5,
+  "periodsPerWeek": 25,
+  "timetabledPeriods": 23
+ }
+}

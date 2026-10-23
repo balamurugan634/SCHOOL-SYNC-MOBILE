@@ -1,0 +1,63 @@
+{
+ "receiptNo": "RCT-2026-000001",
+ "paymentId": "01a15f30-14a8-7746-bae8-f6675dd3c91f",
+ "paidAt": "2026-06-13T11:12:00.000Z",
+ "currency": "INR",
+ "school": {
+  "name": "Green Valley Public School",
+  "address": "",
+  "phone": "",
+  "email": ""
+ },
+ "student": {
+  "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+  "name": "Ishaan Bose",
+  "admissionNo": "GV20260001",
+  "grade": "Grade 6",
+  "section": "A"
+ },
+ "invoice": {
+  "id": "01a15f30-1416-720f-ac77-fe9c53d0279e",
+  "invoiceNo": "INV-2026-000001",
+  "title": "Grade 6 fees + transport 2026-27 - due 2026-06-13",
+  "dueDate": "2026-06-13",
+  "totalMinor": 1710000,
+  "discountMinor": 0,
+  "paidMinor": 1710000,
+  "balanceMinor": 0
+ },
+ "items": [
+  {
+   "id": "01a15f30-1459-74ca-b3ab-157808db6f51",
+   "categoryId": "01a15f30-13cf-742c-b7f9-93662574b1cb",
+   "categoryName": "Tuition",
+   "description": "Tuition - Instalment 1",
+   "amountMinor": 1200000,
+   "discountMinor": 0
+  },
+  {
+   "id": "01a15f30-1459-74ca-b3ab-1a148bf33c83",
+   "categoryId": "01a15f30-13cf-742c-b7f9-9e4b11dd8c28",
+   "categoryName": "Activity",
+   "description": "Activity fee",
+   "amountMinor": 150000,
+   "discountMinor": 0
+  },
+  {
+   "id": "01a15f30-1459-74ca-b3ab-1f09f4a1cada",
+   "categoryId": "01a15f30-13cf-742c-b7f9-95edf96aebd0",
+   "categoryName": "Transport",
+   "description": "Transport - Instalment 1",
+   "amountMinor": 360000,
+   "discountMinor": 0
+  }
+ ],
+ "payment": {
+  "amountMinor": 1710000,
+  "refundedMinor": 0,
+  "method": "cheque",
+  "reference": "CHQ-713270",
+  "status": "succeeded"
+ },
+ "receivedBy": "Latha Krishnan"
+}

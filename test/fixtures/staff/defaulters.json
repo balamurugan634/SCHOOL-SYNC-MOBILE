@@ -1,0 +1,49 @@
+{
+ "data": [
+  {
+   "studentId": "01a15f30-0fc0-75d3-b488-335d647fc09a",
+   "studentName": "Aditya Pillai",
+   "admissionNo": "GV20260225",
+   "gradeName": "Grade 10",
+   "sectionName": "B",
+   "overdueInvoices": 2,
+   "overdueMinor": 4320000,
+   "oldestDueDate": "2026-06-13",
+   "maxDaysOverdue": 130,
+   "guardianName": "Karthik Pillai",
+   "guardianPhone": "9000000200"
+  },
+  {
+   "studentId": "01a15f30-0fbf-7337-9973-988274371897",
+   "studentName": "Aadhya Rao",
+   "admissionNo": "GV20260184",
+   "gradeName": "Grade 9",
+   "sectionName": "B",
+   "overdueInvoices": 2,
+   "overdueMinor": 4120000,
+   "oldestDueDate": "2026-06-13",
+   "maxDaysOverdue": 130,
+   "guardianName": "Arjun Menon",
+   "guardianPhone": "9000000119"
+  },
+  {
+   "studentId": "01a15f30-0fbf-7337-9972-782bf8fa928f",
+   "studentName": "Aditya Joshi",
+   "admissionNo": "GV20260165",
+   "gradeName": "Grade 9",
+   "sectionName": "A",
+   "overdueInvoices": 2,
+   "overdueMinor": 4120000,
+   "oldestDueDate": "2026-06-13",
+   "maxDaysOverdue": 130,
+   "guardianName": "Nikhil Joshi",
+   "guardianPhone": "9000000148"
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 3,
+  "total": 89,
+  "totalPages": 30
+ }
+}

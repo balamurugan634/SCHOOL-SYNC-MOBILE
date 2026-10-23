@@ -1,0 +1,242 @@
+{
+ "id": "01a16070-7592-77d2-87a6-1235427d02c6",
+ "examId": "01a16070-758b-72fa-9f59-196c1484f372",
+ "examName": "Mid-Term Examination",
+ "paperId": "01a16070-758e-72dc-8018-815c3560ea3a",
+ "sectionId": "01a16070-7236-73f5-885e-da19ae266697",
+ "sectionName": "B",
+ "gradeId": "01a16070-71df-750b-af74-c9c8c8ad3a01",
+ "gradeName": "Grade 10",
+ "subjectId": "01a16070-71e1-7210-863f-594a090e8d25",
+ "subjectName": "Computer Science",
+ "status": "draft",
+ "maxMarks": 100,
+ "passMarks": 35,
+ "teacherName": "Sunita Verma",
+ "studentCount": 24,
+ "enteredCount": 12,
+ "absentCount": 0,
+ "submittedAt": null,
+ "reviewedAt": null,
+ "publishedAt": null,
+ "returnNote": null,
+ "canEdit": true,
+ "entries": [
+  {
+   "studentId": "01a16070-7243-74c9-bda3-e995be5b1c36",
+   "admissionNo": "GV20260217",
+   "name": "Tanvi Sharma",
+   "rollNo": 1,
+   "marksObtained": 91,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda3-f9a5bf4eef33",
+   "admissionNo": "GV20260218",
+   "name": "Yash Rao",
+   "rollNo": 2,
+   "marksObtained": 36,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-0b94d258191c",
+   "admissionNo": "GV20260219",
+   "name": "Ira Patel",
+   "rollNo": 3,
+   "marksObtained": 49,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-18f5e0dcd10f",
+   "admissionNo": "GV20260220",
+   "name": "Ira Kumar",
+   "rollNo": 4,
+   "marksObtained": 70,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-2a9ec90d431d",
+   "admissionNo": "GV20260221",
+   "name": "Krish Rao",
+   "rollNo": 5,
+   "marksObtained": 51,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-399ae24d4c14",
+   "admissionNo": "GV20260222",
+   "name": "Vihaan Singh",
+   "rollNo": 6,
+   "marksObtained": 56,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-4b996a546c06",
+   "admissionNo": "GV20260223",
+   "name": "Tanvi Menon",
+   "rollNo": 7,
+   "marksObtained": 68,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-5921553d50dc",
+   "admissionNo": "GV20260224",
+   "name": "Dhruv Reddy",
+   "rollNo": 8,
+   "marksObtained": 65,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-628dc63cf140",
+   "admissionNo": "GV20260225",
+   "name": "Aditya Pillai",
+   "rollNo": 9,
+   "marksObtained": 70,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-70866450f51f",
+   "admissionNo": "GV20260226",
+   "name": "Zara Joshi",
+   "rollNo": 10,
+   "marksObtained": 48,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-8301d6c77c8d",
+   "admissionNo": "GV20260227",
+   "name": "Ira Menon",
+   "rollNo": 11,
+   "marksObtained": 63,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-936222e98b2d",
+   "admissionNo": "GV20260228",
+   "name": "Kavya Sharma",
+   "rollNo": 12,
+   "marksObtained": 87,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-a2f1f57505dd",
+   "admissionNo": "GV20260229",
+   "name": "Rahul Kumar",
+   "rollNo": 13,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-b1fb82c239bc",
+   "admissionNo": "GV20260230",
+   "name": "Riya Joshi",
+   "rollNo": 14,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-c3cc23f01b97",
+   "admissionNo": "GV20260231",
+   "name": "Ishaan Joshi",
+   "rollNo": 15,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-d2af602b8b37",
+   "admissionNo": "GV20260232",
+   "name": "Ananya Kumar",
+   "rollNo": 16,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-daad786f5f5f",
+   "admissionNo": "GV20260233",
+   "name": "Dhruv Iyer",
+   "rollNo": 17,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-ebfe6c0bb45e",
+   "admissionNo": "GV20260234",
+   "name": "Dhruv Sharma",
+   "rollNo": 18,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda4-fa396a1bd4c9",
+   "admissionNo": "GV20260235",
+   "name": "Rohan Menon",
+   "rollNo": 19,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda5-0905d6a26dee",
+   "admissionNo": "GV20260236",
+   "name": "Navya Rao",
+   "rollNo": 20,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda5-1a9c283ce0de",
+   "admissionNo": "GV20260237",
+   "name": "Arjun Nair",
+   "rollNo": 21,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda5-2bd815b72a1a",
+   "admissionNo": "GV20260238",
+   "name": "Aarav Singh",
+   "rollNo": 22,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda5-383306d9c2b4",
+   "admissionNo": "GV20260239",
+   "name": "Nikhil Singh",
+   "rollNo": 23,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a16070-7243-74c9-bda5-488d7b0c7082",
+   "admissionNo": "GV20260240",
+   "name": "Krish Nair",
+   "rollNo": 24,
+   "marksObtained": null,
+   "isAbsent": false,
+   "remarks": null
+  }
+ ]
+}

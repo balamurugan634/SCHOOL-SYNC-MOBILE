@@ -1,0 +1,52 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-0fb8-70b1-9535-67bca3025963",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectCode": "ENG",
+   "subjectName": "English",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "staffName": "Sunita Verma",
+   "periodsPerWeek": 5
+  },
+  {
+   "id": "01a15f30-0fb8-70b1-9535-e1a30190a1ce",
+   "sectionId": "01a15f30-0fb1-778d-971f-bb57101ab51b",
+   "sectionName": "B",
+   "gradeId": "01a15f30-0f59-7224-a69e-88a63be8a268",
+   "gradeName": "Grade 7",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectCode": "ART",
+   "subjectName": "Art & Craft",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "staffName": "Sunita Verma",
+   "periodsPerWeek": 5
+  },
+  {
+   "id": "01a15f30-0fb8-70b1-9535-f5eabab04219",
+   "sectionId": "01a15f30-0fb2-722b-aaad-6112045c1fa8",
+   "sectionName": "A",
+   "gradeId": "01a15f30-0f59-7224-a69e-8d5e5ae44289",
+   "gradeName": "Grade 8",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectCode": "HIN",
+   "subjectName": "Hindi",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "staffName": "Sunita Verma",
+   "periodsPerWeek": 5
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 100,
+  "total": 5,
+  "totalPages": 1
+ }
+}

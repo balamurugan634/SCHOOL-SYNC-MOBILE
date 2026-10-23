@@ -1,0 +1,28 @@
+{
+ "id": "01a15f30-0f85-7647-8e40-d6a5f7a65759",
+ "employeeId": "EMP202",
+ "firstName": "Anjali",
+ "lastName": "Desai",
+ "name": "Anjali Desai",
+ "designation": "Science Teacher",
+ "department": null,
+ "staffType": "teaching",
+ "status": "active",
+ "email": "t003@demo.school.test",
+ "phone": "9871006754",
+ "photoUrl": null,
+ "hasLogin": true,
+ "roles": [
+  "class_teacher",
+  "teacher"
+ ],
+ "gender": "female",
+ "dob": null,
+ "joinDate": "2021-06-01",
+ "qualification": null,
+ "address": null,
+ "emergencyContact": null,
+ "userId": "01a15f30-0f84-72a1-8f59-bcb590834399",
+ "username": "t003",
+ "userStatus": "active"
+}

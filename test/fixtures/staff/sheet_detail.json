@@ -1,0 +1,62 @@
+{
+ "id": "01a15f30-1380-720b-ac5a-8aacf4b6989f",
+ "examId": "01a15f30-137a-705f-804b-ad8dc22ca5c6",
+ "examName": "Mid-Term Examination",
+ "paperId": "01a15f30-137c-769c-b31e-2ac0560b326f",
+ "sectionId": "01a15f30-0fb7-75ab-b0f5-415182f441a8",
+ "sectionName": "B",
+ "gradeId": "01a15f30-0f59-7224-a69e-944ad0d1da11",
+ "gradeName": "Grade 10",
+ "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+ "subjectName": "Computer Science",
+ "status": "draft",
+ "maxMarks": 100,
+ "passMarks": 35,
+ "teacherName": "Sunita Verma",
+ "studentCount": 24,
+ "enteredCount": 12,
+ "absentCount": 0,
+ "submittedAt": null,
+ "reviewedAt": null,
+ "publishedAt": null,
+ "returnNote": null,
+ "canEdit": true,
+ "entries": [
+  {
+   "studentId": "01a15f30-0fc0-75d3-b487-bb6567a74ea9",
+   "admissionNo": "GV20260217",
+   "name": "Tanvi Sharma",
+   "rollNo": 1,
+   "marksObtained": 91,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a15f30-0fc0-75d3-b487-c8656e88bfe0",
+   "admissionNo": "GV20260218",
+   "name": "Yash Rao",
+   "rollNo": 2,
+   "marksObtained": 36,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a15f30-0fc0-75d3-b487-da1311fdcb27",
+   "admissionNo": "GV20260219",
+   "name": "Ira Patel",
+   "rollNo": 3,
+   "marksObtained": 49,
+   "isAbsent": false,
+   "remarks": null
+  },
+  {
+   "studentId": "01a15f30-0fc0-75d3-b487-e9016a7a8b2d",
+   "admissionNo": "GV20260220",
+   "name": "Ira Kumar",
+   "rollNo": 4,
+   "marksObtained": 70,
+   "isAbsent": false,
+   "remarks": null
+  }
+ ]
+}

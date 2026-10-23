@@ -1,0 +1,28 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-14e6-70f1-ae1c-bdb03be3dc48",
+   "paymentId": "01a15f30-14a8-7746-bae9-55d049bc1d4f",
+   "receiptNo": "RCT-2026-000025",
+   "invoiceId": "01a15f30-1416-720f-ac78-7743dfc7e639",
+   "invoiceNo": "INV-2026-000031",
+   "studentId": "01a15f30-0fbd-744b-ad81-181f488272f7",
+   "studentName": "Ananya Rao",
+   "amountMinor": 150000,
+   "reason": "Activity fee paid twice (cash and UPI)",
+   "status": "requested",
+   "requestedByName": "Latha Krishnan",
+   "decidedByName": null,
+   "decidedAt": null,
+   "processedAt": null,
+   "reference": null,
+   "createdAt": "2026-10-21T15:59:09.030Z"
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 25,
+  "total": 1,
+  "totalPages": 1
+ }
+}

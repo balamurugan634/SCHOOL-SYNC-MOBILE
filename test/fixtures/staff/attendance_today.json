@@ -1,0 +1,29 @@
+{
+ "date": "2026-10-21",
+ "mode": "daily",
+ "isWorkingDay": true,
+ "holiday": null,
+ "role": "teacher",
+ "items": [
+  {
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "Grade 6-A",
+   "periodId": null,
+   "periodName": null,
+   "subjectName": null,
+   "strength": 24,
+   "marked": true,
+   "sessionStatus": "submitted",
+   "counts": {
+    "present": 21,
+    "absent": 0,
+    "late": 3,
+    "leave": 0,
+    "half_day": 0
+   }
+  }
+ ],
+ "pendingCount": 0,
+ "children": [],
+ "school": null
+}

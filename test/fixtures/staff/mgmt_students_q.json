@@ -1,0 +1,58 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-0fbd-744b-ad80-98c88cca0868",
+   "admissionNo": "GV20260004",
+   "firstName": "Divya",
+   "lastName": "Sharma",
+   "name": "Divya Sharma",
+   "gender": "female",
+   "dob": "2015-09-22",
+   "photoUrl": null,
+   "status": "active",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "rollNo": 4
+  },
+  {
+   "id": "01a15f30-0fbe-7319-a0fb-a803a8f96a94",
+   "admissionNo": "GV20260023",
+   "firstName": "Tanvi",
+   "lastName": "Sharma",
+   "name": "Tanvi Sharma",
+   "gender": "female",
+   "dob": "2015-12-27",
+   "photoUrl": null,
+   "status": "active",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "rollNo": 23
+  },
+  {
+   "id": "01a15f30-0fbe-7319-a0fc-40aa6504b32b",
+   "admissionNo": "GV20260033",
+   "firstName": "Divya",
+   "lastName": "Sharma",
+   "name": "Divya Sharma",
+   "gender": "female",
+   "dob": "2015-09-24",
+   "photoUrl": null,
+   "status": "active",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "sectionId": "01a15f30-0faf-7162-b7e3-bfc154c23d62",
+   "sectionName": "B",
+   "rollNo": 9
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 3,
+  "total": 20,
+  "totalPages": 7
+ }
+}

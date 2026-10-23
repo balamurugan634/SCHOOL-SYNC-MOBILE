@@ -1,0 +1,58 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "admissionNo": "GV20260001",
+   "firstName": "Ishaan",
+   "lastName": "Bose",
+   "name": "Ishaan Bose",
+   "gender": "male",
+   "dob": "2015-02-13",
+   "photoUrl": null,
+   "status": "active",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "rollNo": 1
+  },
+  {
+   "id": "01a15f30-0fbd-744b-ad80-7b96e552da00",
+   "admissionNo": "GV20260002",
+   "firstName": "Tanvi",
+   "lastName": "Patel",
+   "name": "Tanvi Patel",
+   "gender": "female",
+   "dob": "2015-08-10",
+   "photoUrl": null,
+   "status": "active",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "rollNo": 2
+  },
+  {
+   "id": "01a15f30-0fbd-744b-ad80-8b91c174931d",
+   "admissionNo": "GV20260003",
+   "firstName": "Saanvi",
+   "lastName": "Gupta",
+   "name": "Saanvi Gupta",
+   "gender": "female",
+   "dob": "2015-08-03",
+   "photoUrl": null,
+   "status": "active",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "rollNo": 3
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 3,
+  "total": 24,
+  "totalPages": 8
+ }
+}

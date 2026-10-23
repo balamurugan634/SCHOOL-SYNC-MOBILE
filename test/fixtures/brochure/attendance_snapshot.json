@@ -1,0 +1,78 @@
+{
+ "attendance": {
+  "date": "2026-10-21",
+  "mode": "daily",
+  "isWorkingDay": true,
+  "holiday": null,
+  "totals": {
+   "present": 177,
+   "absent": 5,
+   "late": 7,
+   "leave": 0,
+   "half_day": 3,
+   "activeStudents": 242,
+   "markedStudents": 192,
+   "unmarkedStudents": 50,
+   "percentPresent": 96.6
+  },
+  "sectionsTotal": 10,
+  "sectionsMarked": 8,
+  "trend": [
+   {
+    "present": 226,
+    "absent": 10,
+    "late": 3,
+    "leave": 1,
+    "half_day": 0,
+    "date": "2026-10-15",
+    "percentPresent": 95.8
+   },
+   {
+    "present": 220,
+    "absent": 11,
+    "late": 7,
+    "leave": 0,
+    "half_day": 2,
+    "date": "2026-10-16",
+    "percentPresent": 95
+   },
+   {
+    "present": 224,
+    "absent": 10,
+    "late": 4,
+    "leave": 0,
+    "half_day": 2,
+    "date": "2026-10-17",
+    "percentPresent": 95.4
+   },
+   {
+    "present": 221,
+    "absent": 10,
+    "late": 6,
+    "leave": 0,
+    "half_day": 3,
+    "date": "2026-10-19",
+    "percentPresent": 95.2
+   },
+   {
+    "present": 227,
+    "absent": 12,
+    "late": 0,
+    "leave": 0,
+    "half_day": 1,
+    "date": "2026-10-20",
+    "percentPresent": 94.8
+   },
+   {
+    "present": 177,
+    "absent": 5,
+    "late": 7,
+    "leave": 0,
+    "half_day": 3,
+    "date": "2026-10-21",
+    "percentPresent": 96.6
+   }
+  ]
+ },
+ "date": "2026-10-21"
+}

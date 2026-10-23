@@ -1,0 +1,76 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-12ed-7007-a864-7f1387ff3435",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Line and Shape",
+   "ordinal": 1,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-11T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-814512b9ea08",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Colour Theory",
+   "ordinal": 2,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-10T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-85f429c8e32e",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Still Life Drawing",
+   "ordinal": 3,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-13T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-88adc85a4f39",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Poster Making",
+   "ordinal": 4,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  }
+ ]
+}

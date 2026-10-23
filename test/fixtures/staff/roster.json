@@ -1,0 +1,83 @@
+{
+ "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+ "sectionName": "A",
+ "gradeName": "Grade 6",
+ "date": "2026-10-21",
+ "mode": "daily",
+ "periodId": null,
+ "periodName": null,
+ "subjectId": null,
+ "subjectName": null,
+ "isWorkingDay": true,
+ "holiday": null,
+ "isFuture": false,
+ "session": {
+  "id": "01a15f30-1087-71bd-8cc0-77ba41efb383",
+  "status": "submitted",
+  "takenByName": "Sunita Verma",
+  "submittedAt": "2026-10-21T03:50:00.000Z",
+  "editableUntil": "2026-10-22T03:50:00.000Z"
+ },
+ "canSubmit": true,
+ "blockedReason": null,
+ "canRequestCorrection": false,
+ "warnings": [],
+ "counts": {
+  "present": 22,
+  "absent": 0,
+  "late": 2,
+  "leave": 0,
+  "half_day": 0,
+  "unmarked": 0
+ },
+ "students": [
+  {
+   "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+   "name": "Ishaan Bose",
+   "admissionNo": "GV20260001",
+   "rollNo": 1,
+   "recordId": "01a15f30-1087-71bd-8cc0-79305a1f6a84",
+   "status": "late",
+   "remarks": null,
+   "source": "marked",
+   "onApprovedLeave": false,
+   "markedAt": "2026-10-21T03:50:00.000Z"
+  },
+  {
+   "studentId": "01a15f30-0fbd-744b-ad80-7b96e552da00",
+   "name": "Tanvi Patel",
+   "admissionNo": "GV20260002",
+   "rollNo": 2,
+   "recordId": "01a15f30-1087-71bd-8cc0-7cf0240e52af",
+   "status": "present",
+   "remarks": null,
+   "source": "marked",
+   "onApprovedLeave": false,
+   "markedAt": "2026-10-21T03:50:00.000Z"
+  },
+  {
+   "studentId": "01a15f30-0fbd-744b-ad80-8b91c174931d",
+   "name": "Saanvi Gupta",
+   "admissionNo": "GV20260003",
+   "rollNo": 3,
+   "recordId": "01a15f30-1087-71bd-8cc0-821c9413bfab",
+   "status": "present",
+   "remarks": null,
+   "source": "marked",
+   "onApprovedLeave": false,
+   "markedAt": "2026-10-21T03:50:00.000Z"
+  },
+  {
+   "studentId": "01a15f30-0fbd-744b-ad80-98c88cca0868",
+   "name": "Divya Sharma",
+   "admissionNo": "GV20260004",
+   "rollNo": 4,
+   "recordId": "01a15f30-1087-71bd-8cc0-86185003fbc9",
+   "status": "present",
+   "remarks": null,
+   "source": "marked",
+   "onApprovedLeave": false,
+   "markedAt": "2026-10-21T03:50:00.000Z"
+  }
+ ]
+}

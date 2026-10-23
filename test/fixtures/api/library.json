@@ -1,0 +1,50 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-1612-741a-85e9-a49955d2af64",
+   "book": {
+    "id": "01a15f30-1609-7777-a30d-5f866751e79f",
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "accessionNo": "LB-0019"
+   },
+   "borrower": {
+    "type": "student",
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "code": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "issuedOn": "2026-09-27",
+   "dueOn": "2026-10-11",
+   "returnedOn": null,
+   "status": "overdue",
+   "daysOverdue": 10,
+   "fineMinor": 1000
+  },
+  {
+   "id": "01a15f30-1612-741a-85e9-a098aace3f39",
+   "book": {
+    "id": "01a15f30-1608-76d2-b07c-a3ede37a0164",
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "accessionNo": "LB-0001"
+   },
+   "borrower": {
+    "type": "student",
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "code": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "issuedOn": "2026-10-15",
+   "dueOn": "2026-10-29",
+   "returnedOn": null,
+   "status": "borrowed",
+   "daysOverdue": 0,
+   "fineMinor": 0
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-15ee-7294-8f4b-8034f07df1eb",
+   "status": "requested",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-7b96e552da00",
+    "name": "Tanvi Patel",
+    "admissionNo": "GV20260002",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-830439ef345f",
+    "name": "Rohan Patel"
+   },
+   "topic": "Concerned about recent absences",
+   "proposedAt": "2026-10-27T03:30:00.000Z",
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": null,
+   "createdAt": "2026-10-21T09:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": [
+    "confirm",
+    "decline",
+    "cancel"
+   ]
+  },
+  {
+   "id": "01a15f30-15ee-7294-8f4b-70d43f41c52d",
+   "status": "requested",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+    "name": "Ishaan Bose",
+    "admissionNo": "GV20260001",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f82-70dd-9a1e-19a5676fd877",
+    "name": "Rajesh Kulkarni",
+    "designation": "Mathematics Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-709270fe8d5c",
+    "name": "Arjun Bose"
+   },
+   "topic": "Discuss progress in Mathematics and the upcoming mid-term",
+   "proposedAt": "2026-10-26T09:30:00.000Z",
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": null,
+   "createdAt": "2026-10-20T12:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": [
+    "confirm",
+    "decline",
+    "cancel"
+   ]
+  },
+  {
+   "id": "01a15f30-15ee-7294-8f4b-86caa858423d",
+   "status": "requested",
+   "student": {
+    "id": "01a15f30-0fbd-744b-ad80-8b91c174931d",
+    "name": "Saanvi Gupta",
+    "admissionNo": "GV20260003",
+    "grade": "Grade 6",
+    "section": "A"
+   },
+   "teacher": {
+    "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+    "name": "Sunita Verma",
+    "designation": "English Teacher"
+   },
+   "guardian": {
+    "id": "01a15f30-0fbd-744b-ad80-91fc6ff585b3",
+    "name": "Rahul Gupta"
+   },
+   "topic": "Homework load at home",
+   "proposedAt": "2026-10-28T10:30:00.000Z",
+   "scheduledAt": null,
+   "durationMin": 15,
+   "mode": "in_person",
+   "locationOrLink": null,
+   "outcomeNotes": null,
+   "createdAt": "2026-10-19T15:59:09.035Z",
+   "updatedAt": "2026-10-21T15:59:09.295Z",
+   "availableActions": [
+    "confirm",
+    "decline",
+    "cancel"
+   ]
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 4,
+  "total": 8,
+  "totalPages": 2
+ }
+}

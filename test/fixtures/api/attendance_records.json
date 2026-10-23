@@ -1,0 +1,41 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-1087-71bd-8cc0-79305a1f6a84",
+   "date": "2026-10-21",
+   "status": "late",
+   "remarks": null,
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "periodId": null,
+   "periodName": null,
+   "subjectName": null,
+   "markedAt": "2026-10-21T03:50:00.000Z",
+   "correctionPending": false
+  },
+  {
+   "id": "01a15f30-1086-773a-a07a-753cce8ad4bc",
+   "date": "2026-10-20",
+   "status": "present",
+   "remarks": null,
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "periodId": null,
+   "periodName": null,
+   "subjectName": null,
+   "markedAt": "2026-10-20T03:50:00.000Z",
+   "correctionPending": false
+  },
+  {
+   "id": "01a15f30-1085-7348-b4d1-0327fe12f344",
+   "date": "2026-10-19",
+   "status": "present",
+   "remarks": null,
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "periodId": null,
+   "periodName": null,
+   "subjectName": null,
+   "markedAt": "2026-10-19T03:50:00.000Z",
+   "correctionPending": false
+  }
+ ],
+ "nextCursor": "eyJkIjoiMjAyNi0xMC0xOSIsImlkIjoiMDFhMTVmMzAtMTA4NS03MzQ4LWI0ZDEtMDMyN2ZlMTJmMzQ0In0"
+}

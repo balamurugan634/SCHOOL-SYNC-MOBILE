@@ -1,0 +1,66 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-0f85-7647-8e40-d6a5f7a65759",
+   "employeeId": "EMP202",
+   "firstName": "Anjali",
+   "lastName": "Desai",
+   "name": "Anjali Desai",
+   "designation": "Science Teacher",
+   "department": null,
+   "staffType": "teaching",
+   "status": "active",
+   "email": "t003@demo.school.test",
+   "phone": "9871006754",
+   "photoUrl": null,
+   "hasLogin": true,
+   "roles": [
+    "class_teacher",
+    "teacher"
+   ]
+  },
+  {
+   "id": "01a15f30-0fa6-775d-adc0-fb70db78a81d",
+   "employeeId": "EMP213",
+   "firstName": "Arun",
+   "lastName": "Prakash",
+   "name": "Arun Prakash",
+   "designation": "Computer Science Teacher",
+   "department": null,
+   "staffType": "teaching",
+   "status": "active",
+   "email": "t014@demo.school.test",
+   "phone": "9854555652",
+   "photoUrl": null,
+   "hasLogin": true,
+   "roles": [
+    "teacher"
+   ]
+  },
+  {
+   "id": "01a15f30-0f98-7545-b70c-61fc7d22e5db",
+   "employeeId": "EMP208",
+   "firstName": "Deepa",
+   "lastName": "Nambiar",
+   "name": "Deepa Nambiar",
+   "designation": "English Teacher",
+   "department": null,
+   "staffType": "teaching",
+   "status": "active",
+   "email": "t009@demo.school.test",
+   "phone": "9880864244",
+   "photoUrl": null,
+   "hasLogin": true,
+   "roles": [
+    "class_teacher",
+    "teacher"
+   ]
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 3,
+  "total": 23,
+  "totalPages": 8
+ }
+}

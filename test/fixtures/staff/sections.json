@@ -1,0 +1,52 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "gradeOrdinal": 6,
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "name": "A",
+   "room": "6A",
+   "capacity": 30,
+   "classTeacherId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "classTeacherName": "Sunita Verma",
+   "studentCount": 24
+  },
+  {
+   "id": "01a15f30-0fb1-778d-971f-bb57101ab51b",
+   "gradeId": "01a15f30-0f59-7224-a69e-88a63be8a268",
+   "gradeName": "Grade 7",
+   "gradeOrdinal": 7,
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "name": "B",
+   "room": "7B",
+   "capacity": 30,
+   "classTeacherId": "01a15f30-0f88-7518-88b7-9005a78632a6",
+   "classTeacherName": "Mohan Das",
+   "studentCount": 24
+  },
+  {
+   "id": "01a15f30-0fb2-722b-aaad-6112045c1fa8",
+   "gradeId": "01a15f30-0f59-7224-a69e-8d5e5ae44289",
+   "gradeName": "Grade 8",
+   "gradeOrdinal": 8,
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "name": "A",
+   "room": "8A",
+   "capacity": 30,
+   "classTeacherId": "01a15f30-0f8c-7471-b454-acbb4d1e886f",
+   "classTeacherName": "Fatima Sheikh",
+   "studentCount": 24
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 100,
+  "total": 5,
+  "totalPages": 1
+ }
+}

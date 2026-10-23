@@ -1,0 +1,43 @@
+{
+ "id": "01a15f30-1416-720f-ac78-0546c434a295",
+ "invoiceNo": "INV-2026-000003",
+ "studentId": "01a15f30-0fbd-744b-ad80-6a39209c98d9",
+ "studentName": "Ishaan Bose",
+ "admissionNo": "GV20260001",
+ "gradeName": "Grade 6",
+ "sectionName": "A",
+ "title": "Grade 6 fees + transport 2026-27 - due 2026-12-10",
+ "dueDate": "2026-12-10",
+ "status": "unpaid",
+ "overdue": false,
+ "daysOverdue": 0,
+ "totalMinor": 1560000,
+ "discountMinor": 0,
+ "paidMinor": 0,
+ "balanceMinor": 1560000,
+ "lateFeeMinor": 0,
+ "amountDueNowMinor": 1560000,
+ "notes": null,
+ "issuedAt": "2026-10-21T15:59:08.806Z",
+ "items": [
+  {
+   "id": "01a15f30-1459-74ca-b3ab-2a02f175de53",
+   "categoryId": "01a15f30-13cf-742c-b7f9-93662574b1cb",
+   "categoryName": "Tuition",
+   "description": "Tuition - Instalment 3",
+   "amountMinor": 1200000,
+   "discountMinor": 0
+  },
+  {
+   "id": "01a15f30-1459-74ca-b3ab-2f85fc39ba4d",
+   "categoryId": "01a15f30-13cf-742c-b7f9-95edf96aebd0",
+   "categoryName": "Transport",
+   "description": "Transport - Instalment 3",
+   "amountMinor": 360000,
+   "discountMinor": 0
+  }
+ ],
+ "payments": [],
+ "refunds": [],
+ "voidReason": null
+}

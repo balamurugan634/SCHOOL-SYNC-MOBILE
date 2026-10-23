@@ -1,0 +1,1156 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-12ed-7007-a864-7f1387ff3435",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Line and Shape",
+   "ordinal": 1,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-11T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-814512b9ea08",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Colour Theory",
+   "ordinal": 2,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-10T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-85f429c8e32e",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Still Life Drawing",
+   "ordinal": 3,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-13T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-88adc85a4f39",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Poster Making",
+   "ordinal": 4,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-8f53101ad4ea",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Craft with Paper",
+   "ordinal": 5,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-90cfc8d0e227",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Folk Art Patterns",
+   "ordinal": 6,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-96a10ba798e4",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Clay Modelling",
+   "ordinal": 7,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-9b5a0c352c36",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Exhibition Preparation",
+   "ordinal": 8,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-3d73ff9fcd84",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Introduction to Computers",
+   "ordinal": 1,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-12T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-420f01655cfa",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Operating System Basics",
+   "ordinal": 2,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-07-27T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-448ee32f9a03",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Word Processing",
+   "ordinal": 3,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-30T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-48b9f6668c70",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Spreadsheets",
+   "ordinal": 4,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-4cd514a95179",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Internet and Safety",
+   "ordinal": 5,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-53da5cf3d12c",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Algorithms and Flowcharts",
+   "ordinal": 6,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-56a30150aea4",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Introduction to Programming",
+   "ordinal": 7,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-599e0ae48e89",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-7e22099d94eb",
+   "subjectName": "Computer Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Presentation Skills",
+   "ordinal": 8,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-9e9f65664358",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Prose: The Journey Begins",
+   "ordinal": 1,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-01T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-a2b8c0c436fa",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Poetry: Nature and Seasons",
+   "ordinal": 2,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-21T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-a4f51adb6093",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Grammar: Tenses",
+   "ordinal": 3,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-09T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-abe5e2644ff1",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Writing: Paragraphs and Letters",
+   "ordinal": 4,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-10T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-ac947ef4d3b8",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Prose: People Who Inspire",
+   "ordinal": 5,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-b3652bbb7764",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Grammar: Clauses and Phrases",
+   "ordinal": 6,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-b6dccff4c260",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Writing: Notice and Email",
+   "ordinal": 7,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-b8a58bb08211",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Literature: Short Story Study",
+   "ordinal": 8,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-1c052fd8243f",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Gadya: Vasant Ke Din",
+   "ordinal": 1,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-27T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-23c8d0913390",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Padya: Prakriti Varnan",
+   "ordinal": 2,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-15T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-251a329f1508",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Vyakaran: Sangya aur Sarvanam",
+   "ordinal": 3,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-10T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-29a933d5ce5a",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Lekhan: Anuchhed",
+   "ordinal": 4,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-06T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-2cd117c2f362",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Gadya: Mahapurush",
+   "ordinal": 5,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-16T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-329fafccbb9f",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Vyakaran: Kriya aur Visheshan",
+   "ordinal": 6,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-37f9109d6b93",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Lekhan: Patra",
+   "ordinal": 7,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-3a2753eb06c1",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fd1e960dbfd9",
+   "subjectName": "Hindi",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Sahitya Parichay",
+   "ordinal": 8,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-bc5b2f4ca413",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Number Systems",
+   "ordinal": 1,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-16T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-c0823a3e650b",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Fractions and Decimals",
+   "ordinal": 2,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-07-28T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-c7b19c163a24",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Ratio and Proportion",
+   "ordinal": 3,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-11T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-c941066b090e",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Basic Algebra",
+   "ordinal": 4,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-cd863d428a18",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Geometry: Lines and Angles",
+   "ordinal": 5,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-d338c325a868",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Mensuration",
+   "ordinal": 6,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-d47fbeb6b87d",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Data Handling",
+   "ordinal": 7,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-dbb087a94e14",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Integers and Rational Numbers",
+   "ordinal": 8,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-5f7fbec9a73c",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Fitness and Warm-up",
+   "ordinal": 1,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-08T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-61244b348188",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Track Events",
+   "ordinal": 2,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-03T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-674b45667435",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Team Games: Football",
+   "ordinal": 3,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-01T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-697e3badc8f7",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Yoga and Meditation",
+   "ordinal": 4,
+   "plannedHours": 3,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-19T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-6d16d4aa2b22",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Team Games: Volleyball",
+   "ordinal": 5,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-7185382fa319",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "First Aid Basics",
+   "ordinal": 6,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-76550a36b5fd",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Nutrition and Hygiene",
+   "ordinal": 7,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-79cb1490905d",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5c-7035-9174-83adb09eb52b",
+   "subjectName": "Physical Education",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Sports Rules and Fair Play",
+   "ordinal": 8,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-df2db00277d3",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Food and Nutrition",
+   "ordinal": 1,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-03T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-e358bf900def",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Matter and Its States",
+   "ordinal": 2,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-10-04T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-e7321c63f98a",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Motion and Force",
+   "ordinal": 3,
+   "plannedHours": 5,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-23T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-e80014b8199f",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Light and Shadows",
+   "ordinal": 4,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-30T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-ee8ed090fae4",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Living Organisms",
+   "ordinal": 5,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-20T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-f285108cc3ef",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Electricity and Circuits",
+   "ordinal": 6,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-f56197e47eb9",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Water and Air",
+   "ordinal": 7,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-f9c09880f5e1",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f67c43fea1a8",
+   "subjectName": "Science",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Our Environment",
+   "ordinal": 8,
+   "plannedHours": 4,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a863-fd546859e8b5",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Early Civilisations",
+   "ordinal": 1,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-01T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-0205fffea1cf",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Landforms and Rivers",
+   "ordinal": 2,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-07-28T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-0659babdadcd",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Kingdoms and Empires",
+   "ordinal": 3,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-07-29T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-0be76986dc02",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "title": "Climate and Vegetation",
+   "ordinal": 4,
+   "plannedHours": 6,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-09-03T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-0f970324fee6",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Local Government",
+   "ordinal": 5,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "completed",
+    "completedAt": "2026-08-20T15:59:08.539Z",
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-11f5bd602eac",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Trade and Cities",
+   "ordinal": 6,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "in_progress",
+    "completedAt": null,
+    "updatedAt": "2026-10-21T15:59:08.547Z"
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-16753004a5b7",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "Resources and Conservation",
+   "ordinal": 7,
+   "plannedHours": 7,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  },
+  {
+   "id": "01a15f30-12ed-7007-a864-18378a78678b",
+   "gradeId": "01a15f30-0f59-7224-a69e-86e9acb5bc9f",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-fa3c79af7862",
+   "subjectName": "Social Studies",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "title": "The Constitution",
+   "ordinal": 8,
+   "plannedHours": 8,
+   "progress": {
+    "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+    "status": "not_started",
+    "completedAt": null,
+    "updatedAt": null
+   }
+  }
+ ]
+}

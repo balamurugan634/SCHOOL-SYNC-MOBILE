@@ -1,0 +1,106 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-14eb-74a5-b63a-a9e558b45a9c",
+   "title": "Sports Day circular (draft)",
+   "body": "Draft circular for Sports Day: reporting time, uniform, and house colours.",
+   "priority": "normal",
+   "status": "draft",
+   "state": "draft",
+   "requiresAck": false,
+   "attachments": [],
+   "publishAt": null,
+   "expiresAt": null,
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f62-718f-bd38-f308be34610c",
+    "name": "Dr. Meenakshi Raman"
+   },
+   "read": false,
+   "readAt": null,
+   "acknowledged": false,
+   "ackedAt": null,
+   "canManage": true,
+   "audience": [
+    {
+     "type": "all",
+     "id": "*",
+     "label": "Everyone"
+    }
+   ],
+   "readCount": 0,
+   "ackCount": 0
+  },
+  {
+   "id": "01a15f30-14eb-74a5-b63a-a2807c89eb5b",
+   "title": "Staff meeting on Friday",
+   "body": "All teaching staff are requested to attend the staff meeting on Friday at 3:45 pm in the conference room. Agenda: term-end assessments and the Annual Day.",
+   "priority": "normal",
+   "status": "published",
+   "state": "published",
+   "requiresAck": false,
+   "attachments": [],
+   "publishAt": "2026-10-18T15:59:09.035Z",
+   "expiresAt": null,
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f62-718f-bd38-f308be34610c",
+    "name": "Dr. Meenakshi Raman"
+   },
+   "read": false,
+   "readAt": null,
+   "acknowledged": false,
+   "ackedAt": null,
+   "canManage": true,
+   "audience": [
+    {
+     "type": "user_type",
+     "id": "staff",
+     "label": "Staff"
+    }
+   ],
+   "readCount": 17,
+   "ackCount": 0
+  },
+  {
+   "id": "01a15f30-14eb-74a5-b63a-9d036a0a1c4e",
+   "title": "Library week: book fair and reading challenge",
+   "body": "The library is celebrating Reading Week with a book fair, author talk and a reading challenge for all classes. Visit the library during breaks to register.",
+   "priority": "normal",
+   "status": "published",
+   "state": "published",
+   "requiresAck": false,
+   "attachments": [],
+   "publishAt": "2026-10-09T15:59:09.035Z",
+   "expiresAt": "2026-10-27T15:59:09.035Z",
+   "createdAt": "2026-10-21T15:59:09.036Z",
+   "updatedAt": "2026-10-21T15:59:09.036Z",
+   "author": {
+    "id": "01a15f30-0f6e-72f5-9d0a-00aba79cdc69",
+    "name": "Prakash Naidu"
+   },
+   "read": true,
+   "readAt": "2026-10-10T21:00:09.035Z",
+   "acknowledged": false,
+   "ackedAt": null,
+   "canManage": true,
+   "audience": [
+    {
+     "type": "all",
+     "id": "*",
+     "label": "Everyone"
+    }
+   ],
+   "readCount": 237,
+   "ackCount": 0
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 3,
+  "total": 8,
+  "totalPages": 3
+ }
+}

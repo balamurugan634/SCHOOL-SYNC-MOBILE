@@ -1,0 +1,97 @@
+{
+ "data": [
+  {
+   "id": "01a15f30-1296-73f9-b70d-7bf654e55195",
+   "sectionId": "01a15f30-0fb3-7229-8941-a0f0c0b75830",
+   "sectionName": "B",
+   "gradeName": "Grade 8",
+   "subjectId": "01a15f30-0f5b-7093-91ed-f0f8a2b12617",
+   "subjectName": "Mathematics",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "teacherName": "Sunita Verma",
+   "title": "Exercise problems 1 to 10",
+   "description": "Exercise problems 1 to 10. Write neatly in your notebook and submit a photo or a short note here. Ask your subject teacher if you have doubts.",
+   "attachments": [],
+   "assignedAt": "2026-10-19T11:30:00.000Z",
+   "dueAt": "2026-10-24T11:30:00.000Z",
+   "allowSubmission": true,
+   "maxMarks": 20,
+   "status": "published",
+   "createdAt": "2026-10-21T15:59:08.446Z",
+   "updatedAt": "2026-10-21T15:59:08.446Z",
+   "learner": null,
+   "stats": {
+    "totalStudents": 24,
+    "submitted": 9,
+    "late": 0,
+    "reviewed": 0,
+    "returned": 0,
+    "missing": 15
+   }
+  },
+  {
+   "id": "01a15f30-1291-7181-89ff-7f75b2be9734",
+   "sectionId": "01a15f30-0fad-768a-9b1c-2e9284c11a7a",
+   "sectionName": "A",
+   "gradeName": "Grade 6",
+   "subjectId": "01a15f30-0f5b-7093-91ed-ed46bfc2f284",
+   "subjectName": "English",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "teacherName": "Sunita Verma",
+   "title": "Vocabulary: word meanings and sentences",
+   "description": "Vocabulary: word meanings and sentences. Write neatly in your notebook and submit a photo or a short note here. Ask your subject teacher if you have doubts.",
+   "attachments": [],
+   "assignedAt": "2026-10-19T11:30:00.000Z",
+   "dueAt": "2026-10-22T11:30:00.000Z",
+   "allowSubmission": true,
+   "maxMarks": 10,
+   "status": "published",
+   "createdAt": "2026-10-21T15:59:08.446Z",
+   "updatedAt": "2026-10-21T16:00:23.430Z",
+   "learner": null,
+   "stats": {
+    "totalStudents": 24,
+    "submitted": 4,
+    "late": 0,
+    "reviewed": 0,
+    "returned": 0,
+    "missing": 20
+   }
+  },
+  {
+   "id": "01a15f30-1295-772f-a528-40a20f75f2e3",
+   "sectionId": "01a15f30-0fb1-778d-971f-bb57101ab51b",
+   "sectionName": "B",
+   "gradeName": "Grade 7",
+   "subjectId": "01a15f30-0f5c-7035-9174-858c42a61186",
+   "subjectName": "Art & Craft",
+   "staffId": "01a15f30-0f7f-7785-9c39-929a73b2d662",
+   "teacherName": "Sunita Verma",
+   "title": "Colour wheel in poster colours",
+   "description": "Colour wheel in poster colours. Write neatly in your notebook. Ask your subject teacher if you have doubts.",
+   "attachments": [],
+   "assignedAt": "2026-10-17T11:30:00.000Z",
+   "dueAt": "2026-10-21T11:30:00.000Z",
+   "allowSubmission": false,
+   "maxMarks": null,
+   "status": "published",
+   "createdAt": "2026-10-21T15:59:08.446Z",
+   "updatedAt": "2026-10-21T15:59:08.446Z",
+   "learner": null,
+   "stats": {
+    "totalStudents": 24,
+    "submitted": 0,
+    "late": 0,
+    "reviewed": 0,
+    "returned": 0,
+    "missing": 24
+   }
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 3,
+  "total": 7,
+  "totalPages": 3
+ }
+}

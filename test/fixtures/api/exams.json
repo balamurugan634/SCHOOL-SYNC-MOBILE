@@ -1,0 +1,82 @@
+{
+ "data": [
+  {
+   "id": "01a15f5b-9ab6-7430-8a74-6e8937f51455",
+   "name": "zz-test exam",
+   "examType": "unit_test",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "termId": null,
+   "termName": null,
+   "gradeScaleId": null,
+   "startDate": "2026-12-10",
+   "endDate": "2026-12-12",
+   "passPercent": 40,
+   "status": "scheduled",
+   "publishedAt": null,
+   "createdAt": "2026-10-21T16:46:41.333Z",
+   "paperCount": 2,
+   "sheets": null
+  },
+  {
+   "id": "01a15f30-13c6-7023-9165-09f28a4e577d",
+   "name": "Annual Final Examination",
+   "examType": "final",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "gradeScaleId": "01a15f30-0eaa-7576-a32d-d18e183d4515",
+   "startDate": "2026-11-25",
+   "endDate": "2026-12-04",
+   "passPercent": 35,
+   "status": "scheduled",
+   "publishedAt": null,
+   "createdAt": "2026-10-21T15:59:08.742Z",
+   "paperCount": 8,
+   "sheets": null
+  },
+  {
+   "id": "01a15f30-137a-705f-804b-ad8dc22ca5c6",
+   "name": "Mid-Term Examination",
+   "examType": "midterm",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "termId": "01a15f30-0eaf-7339-b529-f8d8b654278d",
+   "termName": "Term 2",
+   "gradeScaleId": "01a15f30-0eaa-7576-a32d-d18e183d4515",
+   "startDate": "2026-10-09",
+   "endDate": "2026-10-18",
+   "passPercent": 35,
+   "status": "marks_entry",
+   "publishedAt": null,
+   "createdAt": "2026-10-21T15:59:08.667Z",
+   "paperCount": 8,
+   "sheets": null
+  },
+  {
+   "id": "01a15f30-1310-7219-b146-77f94f8ab259",
+   "name": "Term 1 Final Examination",
+   "examType": "final",
+   "academicYearId": "01a15f30-0eae-74c1-94df-c230fda80301",
+   "academicYearName": "2026-27",
+   "termId": "01a15f30-0eaf-7339-b529-f663eb1410e5",
+   "termName": "Term 1",
+   "gradeScaleId": "01a15f30-0eaa-7576-a32d-d18e183d4515",
+   "startDate": "2026-09-14",
+   "endDate": "2026-09-23",
+   "passPercent": 35,
+   "status": "published",
+   "publishedAt": "2026-10-05T11:00:00.000Z",
+   "createdAt": "2026-10-21T15:59:08.560Z",
+   "paperCount": 8,
+   "sheets": null
+  }
+ ],
+ "meta": {
+  "page": 1,
+  "pageSize": 5,
+  "total": 4,
+  "totalPages": 1
+ }
+}
