@@ -82,7 +82,7 @@ class _CorrectionRequestSheetState extends ConsumerState<CorrectionRequestSheet>
     final t = context.tokens;
     final readOnly = ref.watch(readOnlyProvider);
     return Padding(
-      padding: EdgeInsets.only(bottom: MediaQuery.viewInsetsOf(context).bottom),
+      padding: EdgeInsets.only(bottom: KeyboardInset.of(context)),
       child: SingleChildScrollView(
         padding: const EdgeInsets.fromLTRB(Gaps.page, 0, Gaps.page, Gaps.xl),
         child: Column(

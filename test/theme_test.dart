@@ -95,10 +95,10 @@ void main() {
 
     test('role tints, accent and the six chart colours are the specified values, in order', () {
       final t = buildTheme(kDefaultBrand, Brightness.light).extension<SchoolSyncTheme>()!;
-      expect(t.roleStudent, const Color(0xFFC9731A));
+      expect(t.roleStudent, const Color(0xFFD1411B));
       expect(t.roleParent, const Color(0xFFB04A6F));
       expect(t.roleTeacher, const Color(0xFF3F63B5));
-      expect(t.accent, const Color(0xFFC9731A));
+      expect(t.accent, const Color(0xFFD1411B));
       expect(t.chart, const [Color(0xFF00909B), Color(0xFFB8472F), Color(0xFF3F63B5), Color(0xFFC9731A), Color(0xFF6C5BB0), Color(0xFF4F8A45)]);
       expect(t.sequential, hasLength(7));
     });

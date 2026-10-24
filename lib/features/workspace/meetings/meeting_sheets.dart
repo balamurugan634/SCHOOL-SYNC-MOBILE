@@ -142,7 +142,7 @@ class _MeetingActionSheetState extends ConsumerState<_MeetingActionSheet> {
     final m = widget.meeting;
     final readOnly = ref.watch(readOnlyProvider);
     return Padding(
-      padding: EdgeInsets.only(bottom: MediaQuery.viewInsetsOf(context).bottom),
+      padding: EdgeInsets.only(bottom: KeyboardInset.of(context)),
       child: SingleChildScrollView(
         padding: const EdgeInsets.fromLTRB(Gaps.page, 0, Gaps.page, Gaps.xl),
         child: Column(

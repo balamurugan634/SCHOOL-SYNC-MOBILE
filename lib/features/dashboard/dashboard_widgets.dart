@@ -95,7 +95,7 @@ class TodayCard extends StatelessWidget {
                                   ],
                                 ),
                         ),
-                        if (e.state == 'current') const StatusChip('Now', tone: StatusTone.brand) else if (d.next != null && e.ordinal == d.next!.ordinal && !e.isBreak) const StatusChip('Next'),
+                        if (e.state == 'current') const StatusChip('Now', tone: StatusTone.accent) else if (d.next != null && e.ordinal == d.next!.ordinal && !e.isBreak) const StatusChip('Next'),
                       ],
                     ),
                   ),

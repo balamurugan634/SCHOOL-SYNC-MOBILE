@@ -6,7 +6,7 @@ import 'package:schoolsync/core/design/design.dart';
 
 void main() {
   test('every illustration file exists and carries only the six placeholder colours', () {
-    final allowed = {'#0E5A63', '#CFE6E8', '#C9731A', '#FBEFD9', '#F4F1EC', '#1C1A17'};
+    final allowed = {'#0E5A63', '#CFE6E8', '#D1411B', '#FCE7DD', '#F4F1EC', '#1C1A17'};
     for (final i in Illo.values) {
       final f = File(i.asset);
       expect(f.existsSync(), isTrue, reason: i.asset);

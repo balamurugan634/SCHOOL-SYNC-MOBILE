@@ -107,7 +107,7 @@ class _AdmissionBodyState extends ConsumerState<_AdmissionBody> {
     final readOnly = ref.watch(readOnlyProvider);
     final chosen = _chosen;
     return Padding(
-      padding: EdgeInsets.only(bottom: MediaQuery.viewInsetsOf(context).bottom),
+      padding: EdgeInsets.only(bottom: KeyboardInset.of(context)),
       child: SingleChildScrollView(
         padding: const EdgeInsets.fromLTRB(Gaps.page, 0, Gaps.page, Gaps.xl),
         child: Column(

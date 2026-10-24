@@ -87,7 +87,7 @@ class _TaskFormState extends ConsumerState<_TaskForm> {
   Widget build(BuildContext context) {
     final t = context.tokens;
     return Padding(
-      padding: EdgeInsets.fromLTRB(Gaps.page, 0, Gaps.page, MediaQuery.viewInsetsOf(context).bottom + Gaps.lg),
+      padding: EdgeInsets.fromLTRB(Gaps.page, 0, Gaps.page, KeyboardInset.of(context) + Gaps.lg),
       child: SingleChildScrollView(
         child: Column(
           mainAxisSize: MainAxisSize.min,

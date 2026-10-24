@@ -48,7 +48,7 @@ class HomeHeader extends ConsumerWidget {
                 IconButton(
                   tooltip: unread > 0 ? 'Notifications, $unread unread' : 'Notifications',
                   onPressed: () => context.push(Routes.notifications),
-                  icon: unread > 0 ? Badge.count(count: unread, child: const Icon(Icons.notifications_none_rounded)) : const Icon(Icons.notifications_none_rounded),
+                  icon: unread > 0 ? Badge.count(count: unread, backgroundColor: t.accent, textColor: Theme.of(context).brightness == Brightness.dark ? const Color(0xFF1C1A17) : Colors.white, child: const Icon(Icons.notifications_none_rounded)) : const Icon(Icons.notifications_none_rounded),
                 ),
                 GestureDetector(
                   onTap: () => context.push(Routes.settings),

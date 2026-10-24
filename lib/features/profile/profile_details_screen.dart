@@ -132,7 +132,7 @@ class _ContactFormState extends ConsumerState<_ContactForm> {
 
   @override
   Widget build(BuildContext context) => Padding(
-    padding: EdgeInsets.fromLTRB(Gaps.page, 0, Gaps.page, MediaQuery.viewInsetsOf(context).bottom + Gaps.lg),
+    padding: EdgeInsets.fromLTRB(Gaps.page, 0, Gaps.page, KeyboardInset.of(context) + Gaps.lg),
     child: SingleChildScrollView(
       child: Column(
         mainAxisSize: MainAxisSize.min,

@@ -185,7 +185,7 @@ class _PeriodRow extends StatelessWidget {
                   ],
                 ),
               ),
-              if (e.isCurrent) const Padding(padding: EdgeInsets.only(left: Gaps.sm), child: StatusChip('Now', tone: StatusTone.brand, icon: Icons.play_arrow_rounded))
+              if (e.isCurrent) const Padding(padding: EdgeInsets.only(left: Gaps.sm), child: StatusChip('Now', tone: StatusTone.accent, icon: Icons.play_arrow_rounded))
               else if (free) const Padding(padding: EdgeInsets.only(left: Gaps.sm), child: StatusChip('Free', tone: StatusTone.neutral, icon: Icons.event_available_rounded))
               else if (covering) const Padding(padding: EdgeInsets.only(left: Gaps.sm), child: StatusChip('Cover', tone: StatusTone.warning, icon: Icons.swap_horiz_rounded))
               else if (canOpen) Icon(Icons.chevron_right_rounded, color: t.textTertiary),

@@ -8,8 +8,8 @@ import 'theme.dart';
 /// The shared "Soft Geometry" illustrations (design.md section 7). The SVG files use six literal
 /// hex colours; they are replaced with the active theme so every school gets its own colours.
 ///
-///   #0E5A63 brand        #CFE6E8 brand-soft     #C9731A accent
-///   #FBEFD9 accent-soft  #F4F1EC paper          #1C1A17 ink
+///   #0E5A63 brand        #CFE6E8 brand-soft     #D1411B accent
+///   #FCE7DD accent-soft  #F4F1EC paper          #1C1A17 ink
 enum Illo {
   onboardingStudent('onboarding-student', 'Open books and a notebook'),
   onboardingParent('onboarding-parent', 'A family home with a calendar'),
@@ -36,8 +36,8 @@ enum Illo {
 abstract final class IlloPlaceholders {
   static const brand = '#0E5A63';
   static const brandSoft = '#CFE6E8';
-  static const accent = '#C9731A';
-  static const accentSoft = '#FBEFD9';
+  static const accent = '#D1411B';
+  static const accentSoft = '#FCE7DD';
   static const paper = '#F4F1EC';
   static const ink = '#1C1A17';
 }

@@ -173,7 +173,7 @@ class _PeriodRow extends StatelessWidget {
             ),
           ),
           if (p.isCurrent)
-            const StatusChip('Now', tone: StatusTone.brand, icon: Icons.play_arrow_rounded)
+            const StatusChip('Now', tone: StatusTone.accent, icon: Icons.play_arrow_rounded)
           else if (isNext)
             const StatusChip('Next', icon: Icons.schedule_rounded)
           else if (p.isFree)

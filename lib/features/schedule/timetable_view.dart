@@ -130,7 +130,7 @@ class _PeriodRow extends StatelessWidget {
                     ],
                   ),
           ),
-          if (current) const StatusChip('Now', tone: StatusTone.brand),
+          if (current) const StatusChip('Now', tone: StatusTone.accent),
         ],
       ),
     );

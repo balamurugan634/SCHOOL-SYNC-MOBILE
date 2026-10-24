@@ -9,6 +9,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'app.dart';
+import 'core/design/keyboard_inset.dart';
 import 'core/network/device_meta.dart';
 import 'core/providers.dart';
 import 'core/push/background_handler.dart';
@@ -17,6 +18,7 @@ import 'core/storage/prefs.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  KeyboardInset.track();
 
   // Never let a stray error print tokens or personal data in release builds.
   if (!kDebugMode) {
