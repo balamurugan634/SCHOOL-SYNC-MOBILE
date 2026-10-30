@@ -155,7 +155,13 @@ class _MeetingCard extends ConsumerWidget {
             children: [
               Expanded(child: Text(m.studentName, style: context.text.titleMedium)),
               const SizedBox(width: Gaps.sm),
-              _MeetingStatusChip(m.status),
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.end,
+                children: [
+                  _MeetingStatusChip(m.status),
+                  if (m.onlineMeeting?.isScheduled ?? false) const Padding(padding: EdgeInsets.only(top: 4), child: OnlineChip()),
+                ],
+              ),
             ],
           ),
           if (m.classLabel.isNotEmpty || m.admissionNo != null) Text([m.classLabel, if (m.admissionNo != null) m.admissionNo!].where((e) => e.isNotEmpty).join('  ·  '), style: context.text.bodySmall),
@@ -165,7 +171,9 @@ class _MeetingCard extends ConsumerWidget {
           _Fact(Icons.schedule_rounded, timeLine),
           _Fact(Icons.person_outline_rounded, [if (m.guardianName != null) 'With ${m.guardianName}', 'Teacher ${m.teacherName}'].join('  ·  ')),
           _Fact(switch (m.mode) { 'online' => Icons.videocam_outlined, 'phone' => Icons.call_outlined, _ => Icons.meeting_room_outlined }, [m.modeLabel, if (!isLink && (m.locationOrLink ?? '').isNotEmpty) m.locationOrLink!].join('  ·  ')),
-          if (isLink) Align(alignment: Alignment.centerLeft, child: TextButton.icon(onPressed: () => openLink(context, m.locationOrLink), icon: const Icon(Icons.open_in_new_rounded, size: 18), label: const Text('Open meeting link'))),
+          if (m.onlineMeeting != null) ...[const SizedBox(height: Gaps.sm), OnlineMeetingCard(meeting: m.onlineMeeting!)],
+          // The generated link above replaces a hand-typed one; if the school's link failed, the typed one stays.
+          if (isLink && !(m.onlineMeeting?.isScheduled ?? false)) Align(alignment: Alignment.centerLeft, child: TextButton.icon(onPressed: () => openLink(context, m.locationOrLink), icon: const Icon(Icons.open_in_new_rounded, size: 18), label: const Text('Open meeting link'))),
           if ((m.outcomeNotes ?? '').isNotEmpty) ...[
             const SizedBox(height: Gaps.sm),
             AppCard(tone: CardTone.subtle, padding: const EdgeInsets.all(Gaps.md), child: Text(m.outcomeNotes!, style: context.text.bodyMedium)),

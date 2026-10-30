@@ -97,7 +97,19 @@ class _MeetingCardState extends ConsumerState<_MeetingCard> {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(children: [Expanded(child: Text(m.topic, style: context.text.titleMedium)), StatusChip('${m.status[0].toUpperCase()}${m.status.substring(1)}', tone: tone)]),
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Expanded(child: Text(m.topic, style: context.text.titleMedium)),
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.end,
+                children: [
+                  StatusChip('${m.status[0].toUpperCase()}${m.status.substring(1)}', tone: tone),
+                  if (m.onlineMeeting?.isScheduled ?? false) const Padding(padding: EdgeInsets.only(top: 4), child: OnlineChip()),
+                ],
+              ),
+            ],
+          ),
           const SizedBox(height: Gaps.sm),
           FactRow('Teacher', '${m.teacherName}${m.teacherDesignation == null ? '' : ' (${m.teacherDesignation})'}'),
           FactRow('About', m.studentName),
@@ -105,6 +117,7 @@ class _MeetingCardState extends ConsumerState<_MeetingCard> {
           if (m.scheduledAt != null) FactRow('Duration', '${m.durationMin} minutes'),
           if (m.scheduledAt != null) FactRow('How', m.modeLabel),
           if (m.locationOrLink != null) FactRow('Where', m.locationOrLink!),
+          if (m.onlineMeeting != null) ...[const SizedBox(height: Gaps.md), OnlineMeetingCard(meeting: m.onlineMeeting!)],
           if (m.outcomeNotes != null) ...[const SizedBox(height: Gaps.sm), Text('Notes', style: context.text.labelMedium?.copyWith(color: t.textSecondary)), Text(m.outcomeNotes!, style: context.text.bodyMedium)],
           if (m.canCancel) Padding(padding: const EdgeInsets.only(top: Gaps.md), child: SecondaryButton(label: _busy ? 'Cancelling' : 'Cancel meeting', onPressed: _busy ? null : _cancel)),
         ],

@@ -1,7 +1,8 @@
 import '../json.dart';
+import 'online_meeting.dart';
 
 class Meeting {
-  const Meeting({required this.id, required this.status, required this.studentName, required this.teacherName, required this.topic, required this.durationMin, required this.mode, required this.actions, this.studentId, this.teacherDesignation, this.proposedAt, this.scheduledAt, this.locationOrLink, this.outcomeNotes});
+  const Meeting({required this.id, required this.status, required this.studentName, required this.teacherName, required this.topic, required this.durationMin, required this.mode, required this.actions, this.studentId, this.teacherDesignation, this.proposedAt, this.scheduledAt, this.locationOrLink, this.outcomeNotes, this.onlineMeeting});
   final String id;
 
   /// requested | confirmed | declined | completed | cancelled
@@ -20,6 +21,9 @@ class Meeting {
   final String? locationOrLink;
   final String? outcomeNotes;
   final List<String> actions;
+
+  /// The video call for this meeting; `null` when there is none (or the server is older than this field).
+  final OnlineMeeting? onlineMeeting;
 
   DateTime? get when => scheduledAt ?? proposedAt;
   bool get canCancel => actions.contains('cancel');
@@ -45,6 +49,7 @@ class Meeting {
       locationOrLink: jStr(j['locationOrLink']),
       outcomeNotes: jStr(j['outcomeNotes']),
       actions: [for (final a in (j['availableActions'] is List ? j['availableActions'] as List : const [])) '$a'],
+      onlineMeeting: OnlineMeeting.tryParse(j['onlineMeeting']),
     );
   }
 }

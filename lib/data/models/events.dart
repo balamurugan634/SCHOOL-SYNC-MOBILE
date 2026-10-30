@@ -1,4 +1,5 @@
 import '../json.dart';
+import 'online_meeting.dart';
 
 class EventChildResponse {
   const EventChildResponse({required this.studentId, required this.studentName, this.response, this.note, this.respondedAt});
@@ -32,6 +33,7 @@ class SchoolEvent {
     this.consentText,
     this.registrationDeadline,
     this.children = const [],
+    this.onlineMeeting,
   });
 
   final String id;
@@ -55,6 +57,9 @@ class SchoolEvent {
   final DateTime? registrationDeadline;
   final bool responseOpen;
   final List<EventChildResponse> children;
+
+  /// The video call for this event; `null` when there is none (or the server is older than this field).
+  final OnlineMeeting? onlineMeeting;
 
   bool get cancelled => status == 'cancelled';
   bool get needsResponse => (registrationRequired || consentRequired) && responseOpen && children.any((c) => c.response == null);
@@ -88,6 +93,7 @@ class SchoolEvent {
       registrationDeadline: jDate(j['registrationDeadline']),
       responseOpen: jBool(j['responseOpen']),
       children: jsonList(j['children']).map(EventChildResponse.fromJson).toList(growable: false),
+      onlineMeeting: OnlineMeeting.tryParse(j['onlineMeeting']),
     );
   }
 }

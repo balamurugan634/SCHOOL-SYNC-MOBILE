@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_riverpod/misc.dart' show Override;
 import 'package:go_router/go_router.dart';
 import 'package:schoolsync/core/design/design.dart';
 import 'package:schoolsync/core/providers.dart';
@@ -101,7 +102,7 @@ Me loadMe(String role) => Me.fromJson((jsonDecode(File('test/fixtures/me_$role.j
 }
 
 /// With [onRouter] the app uses go_router (so `context.push/pop` work); open the screen with `router.push('/screen')`.
-Future<Widget> appAround(FakeApi api, Me me, Widget screen, {double textScale = 1, Brightness brightness = Brightness.light, void Function(GoRouter router)? onRouter}) async {
+Future<Widget> appAround(FakeApi api, Me me, Widget screen, {double textScale = 1, Brightness brightness = Brightness.light, void Function(GoRouter router)? onRouter, List<Override> overrides = const []}) async {
   SharedPreferences.setMockInitialValues({});
   final prefs = AppPrefs(await SharedPreferences.getInstance());
   return ProviderScope(
@@ -111,6 +112,7 @@ Future<Widget> appAround(FakeApi api, Me me, Widget screen, {double textScale = 
       secureStoreProvider.overrideWithValue(SecureStore(MemorySecureKv())),
       prefsProvider.overrideWithValue(prefs),
       sessionProvider.overrideWith(() => FixedSession(me)),
+      ...overrides,
     ],
     child: _MaterialHost(screen: screen, textScale: textScale, brightness: brightness, onRouter: onRouter),
   );

@@ -78,6 +78,7 @@ class EventRow extends StatelessWidget {
         children: [
           if (e.cancelled) const StatusChip('Cancelled', tone: StatusTone.danger) else StatusChip(e.kindLabel, tone: e.kind == 'holiday' ? StatusTone.success : StatusTone.neutral),
           if (e.needsResponse) const Padding(padding: EdgeInsets.only(top: 4), child: StatusChip('Reply needed', tone: StatusTone.accent)),
+          if (e.onlineMeeting?.isScheduled ?? false) const Padding(padding: EdgeInsets.only(top: 4), child: OnlineChip()),
         ],
       ),
     );

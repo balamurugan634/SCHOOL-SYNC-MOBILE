@@ -1,4 +1,5 @@
 import '../../json.dart';
+import '../online_meeting.dart';
 
 // ───────────────────────────── announcements (author / manager view) ─────────────────────────────
 
@@ -166,6 +167,7 @@ class StaffMeeting {
     this.locationOrLink,
     this.outcomeNotes,
     this.actions = const [],
+    this.onlineMeeting,
   });
 
   final String id;
@@ -192,6 +194,9 @@ class StaffMeeting {
   /// confirm | decline | reschedule | complete | cancel
   final List<String> actions;
 
+  /// The video call for this meeting; `null` when there is none (or the server is older than this field).
+  final OnlineMeeting? onlineMeeting;
+
   DateTime? get when => scheduledAt ?? proposedAt;
   bool can(String a) => actions.contains(a);
   String get modeLabel => switch (mode) { 'online' => 'Online', 'phone' => 'Phone call', _ => 'In person' };
@@ -217,6 +222,7 @@ class StaffMeeting {
       locationOrLink: jStr(j['locationOrLink']),
       outcomeNotes: jStr(j['outcomeNotes']),
       actions: [for (final a in (j['availableActions'] is List ? j['availableActions'] as List : const [])) '$a'],
+      onlineMeeting: OnlineMeeting.tryParse(j['onlineMeeting']),
     );
   }
 }

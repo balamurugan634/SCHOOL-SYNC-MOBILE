@@ -41,6 +41,7 @@ class EventDetailScreen extends ConsumerWidget {
                   if (e.registrationDeadline != null) FactRow('Reply by', fmtDateTime(e.registrationDeadline!)),
                 ]),
               ),
+              if (e.onlineMeeting != null) ...[const SizedBox(height: Gaps.lg), OnlineMeetingCard(meeting: e.onlineMeeting!)],
               if (e.description != null && e.description!.trim().isNotEmpty) ...[const SizedBox(height: Gaps.lg), Text(e.description!, style: context.text.bodyLarge)],
               if ((e.registrationRequired || e.consentRequired) && e.children.isNotEmpty) ...[
                 GroupLabel(e.consentRequired ? 'Permission' : 'Registration'),
